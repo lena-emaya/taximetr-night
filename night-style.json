@@ -1,5 +1,11 @@
 [
 	{
+		"featureType": "ice_sheet",
+		"stylers": {
+			"color": "#ccc"
+		  }
+	   },
+	{
 	  "featureType": "admin.background",
 	  "stylers": {
 	  	"color": "#302e27"
