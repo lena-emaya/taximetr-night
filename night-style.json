@@ -36,7 +36,7 @@
 				"zooms": "3-8",
 				"stylers": {
 					"opacity": 0.3,
-					"color": "#1b221e"
+					"color": "#1C211E"
 			}
 			},
 			{
@@ -50,7 +50,7 @@
 				"zooms": "15-22",
 				"stylers": {
 					"opacity": 1,
-					"color": "#1b221e"
+					"color": "#1C211E"
 			}
 			}
 		]
@@ -214,7 +214,7 @@
  {
 	"featureType": "hydro",
 	"stylers": {
-	"color": "#1a1b21"}
+	"color": "#1E1E21"}
  },
  {
 	"featureType": "nonauto.road",
