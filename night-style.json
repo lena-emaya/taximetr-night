@@ -76,7 +76,8 @@
 		"stylers": {
 		  "lightness":-0.6,
 		  "saturation": -0.8,
-		  "scale": 0.9
+		  "scale": 0.9,
+		  "color": "#A1B1FF"
 		}
 	},
  	
@@ -172,7 +173,7 @@
 				"scale": 0.85,
 				"lightness": -0.5,
 				"saturation": -1,
-				"color": "#757575",
+				"color": "#A1B1FF",
 				"outline-color": "rgba(0, 0, 0, 0)"
 		}
 		}
