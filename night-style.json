@@ -77,7 +77,8 @@
 		  "lightness":-0.6,
 		  "saturation": -0.8,
 		  "scale": 0.9,
-		  "color": "#A1B1FF"
+		  "color": "#A1B1FF",
+		  "outline-color": "rgba(0,0,0,0)"
 		}
 	},
  	
@@ -120,7 +121,7 @@
 	"zooms": "13-15",
 	"stylers": {
 	"visibility": "off",
-	"color": "#21211C"}
+	"color": "#292822"}
  },
  {
 	"featureType": "building",
@@ -130,7 +131,7 @@
 		"outline-width": 0.1,
 		"outline-color": "#21211C",
 		"visibility": "on",
-		"color": "#21211C"}
+		"color": "#292822"}
  },
  {
 	"featureType": "building",
@@ -322,7 +323,7 @@
 			"scale": 0.9,
 			"outline-width": 0,
 			"color": "#9e9983",
-			"outline-color": "#474543"
+			"outline-color": "rgba(0,0,0,0)"
 		}
  	},
 	{
