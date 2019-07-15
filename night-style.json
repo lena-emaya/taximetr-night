@@ -74,6 +74,7 @@
 	{
 		"featureType": "label.transport",
 		"stylers": {
+		  "lightness":-0.6,
 		  "saturation": -0.8,
 		  "scale": 0.9
 		}
@@ -223,7 +224,7 @@
  {
 	"featureType": "nonauto.road.tram_0",
 	"stylers": {
-		"lightness": -0.2,
+		"lightness": -0.6,
 		"visibility": "on"
 		}
  },
