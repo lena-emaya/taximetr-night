@@ -253,7 +253,7 @@
 			"zooms": "0-12",
 			"stylers": {
 				"lightness": -0.6,
-				"visibility": "off"
+				"visibility": "off",
 				"opacity": 0
 				}
 		},
@@ -270,7 +270,7 @@
 	"featureType": "nonauto.road.piste_0",
 	"stylers": {
 		"color": "#423f34",
-		"visibility": "off"
+		"visibility": "off",
 		"scale": 0.75
 		}
  },
@@ -281,7 +281,7 @@
 			"zooms": "0-17",
 			"stylers": {
 				"color": "#423f34",
-				"visibility": "off"
+				"visibility": "off",
 				"opacity": 0
 				}
 		},
@@ -289,7 +289,7 @@
 			"zooms": "17-22",
 			"stylers": {
 				"color": "#423f34",
-				"visibility": "off"
+				"visibility": "off",
 				"scale": 0.65
 				}
 		}
