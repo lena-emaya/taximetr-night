@@ -466,7 +466,7 @@
 			"stylers": {
 				"color": "#333638",
 				"outline-color": "rgba(0,0,0,0)",
-				"scale": 0.58
+				"scale": 0.45
 			}
 		},
 		{
@@ -474,7 +474,7 @@
 			"stylers": {
 				"color": "#333638",
 				"outline-color": "rgba(0,0,0,0)",
-				"scale": 0.7
+				"scale": 0.45
 			}
 		},
 		{
@@ -482,7 +482,7 @@
 			"stylers": {
 				"color": "#333638",
 				"outline-color": "rgba(0,0,0,0)",
-				"scale": 0.75
+				"scale": 0.45
 			}
 		}
 	]			
