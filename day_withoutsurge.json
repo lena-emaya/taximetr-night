@@ -69,28 +69,42 @@
           "color": "#FAEFB1",
           "outline-color": "#F1D68F"
         }
-      },
-      {
-        "featureType": "road.class2_0",
+    },
+    {
+        "featureType": "road.class1_1",
         "stylers": {
           "color": "#FAEFB1",
           "outline-color": "#F1D68F"
         }
-      },
-      {
-        "featureType": "road.class3_0",
+    },
+    {
+        "featureType": "road.class1_2",
         "stylers": {
           "color": "#FAEFB1",
           "outline-color": "#F1D68F"
         }
-      },
-      {
-        "featureType": "road.class4_0",
-        "stylers": {
-          "color": "#FAEFB1",
-          "outline-color": "#F1D68F"
-        }
-      },
+    },
+    {
+      "featureType": "road.class2_0",
+      "stylers": {
+        "color": "#FAEFB1",
+        "outline-color": "#F1D68F"
+      }
+    },
+    {
+      "featureType": "road.class2_1",
+      "stylers": {
+        "color": "#FAEFB1",
+        "outline-color": "#F1D68F"
+      }
+    },
+    {
+      "featureType": "road.class2_2",
+      "stylers": {
+        "color": "#FAEFB1",
+        "outline-color": "#F1D68F"
+      }
+    },
     {
       "featureType": "road.highway",
       "selector": {
