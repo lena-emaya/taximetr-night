@@ -96,10 +96,32 @@
 			"visibility": "off",
 			"color": "#f2f2f2"
 		}
+	 },
+	 {
+		"featureType": "building",
+		"zooms": "15-16",
+		"stylers": {
+			"opacity": 0.5,
+			"outline-width": 0.1,
+			"outline-color": "#f2f2f2",
+			"visibility": "on",
+			"color": "#f2f2f2"
+		}
  	},
  	{
 		"featureType": "building",
-		"zooms": "15-18",
+		"zooms": "16-17",
+		"stylers": {
+			"opacity": 0.6,
+			"outline-width": 0.1,
+			"outline-color": "#f2f2f2",
+			"visibility": "on",
+			"color": "#f2f2f2"
+		}
+	 },
+	 {
+		"featureType": "building",
+		"zooms": "17-18",
 		"stylers": {
 			"opacity": 0.7,
 			"outline-width": 0.1,
