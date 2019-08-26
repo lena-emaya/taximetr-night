@@ -1,0 +1,166 @@
+[
+    {
+      "featureType": "hydro",
+      "stylers": {
+        "color": "#C7D7E7"
+      }
+    },
+    {
+      "featureType": "building",
+      "stylers": {
+        "color": "#f1eedb"
+      }
+    },
+    {
+      "featureType": "vegetation",
+      "stylers": {
+        "color": "#CEEDD1"
+      }
+    },
+    {
+      "featureType": "poi",
+      "zooms": "1-18",
+      "stylers": {
+        "visibility": "off"
+      }
+    },
+    {
+      "featureType": "admin",
+      "stylers": {
+        "color": "#faf8f0"
+      }
+    },
+    {
+      "featureType": "urban-area",
+      "stylers": {
+        "color": "#faf8f0"
+      }
+    },
+    {
+      "featureType": "urban-area.industrial",
+      "stylers": {
+        "color": "#faf8f0"
+      }
+    },
+    {
+      "featureType": "label",
+      "stylers": {
+        "color": "#75705e",
+        "outline-color": "rgba(255,255,255,0)"
+      }
+    },
+    {
+      "featureType": "label.road.marker",
+      "stylers": {
+        "color": "#ffffff",
+        "opacity": "1.0"
+      }
+    },
+    {
+      "featureType": "road",
+      "stylers": {
+        "color": "#ffffff",
+        "outline-color": "#E0DBC5"
+      }
+    },
+    {
+      "featureType": "road.highway",
+      "selector": {
+        "attribute": "func_class",
+        "operator": "equal",
+        "value": 1
+      },
+      "stylers": {
+        "color": "#fcefa9",
+        "outline-color": "#f2c35c"
+      }
+    },
+    {
+      "featureType": "road.local.pedestrian",
+      "stylers": {
+        "visibility": "off"
+      }
+    },
+    {
+      "featureType": "label.transport.station.bus",
+      "stylers": {
+        "visibility": "off"
+      }
+    },
+    {
+      "featureType": "label.road",
+      "stylers": {
+        "color": "#75705e",
+        "outline-color": "rgba(255,255,255,0.75)"
+      }
+    },
+    {
+      "featureType": "road.local.direction",
+      "zooms": "1-18",
+      "stylers": {
+        "visibility": "off"
+      }
+    },
+    {
+      "featureType": "road.highway.direction",
+      "zooms": "1-18",
+      "stylers": {
+        "visibility": "off"
+      }
+    },
+    {
+      "featureType": "label.station",
+      "stylers": {
+        "visibility": "off"
+      }
+    },
+    {
+      "featureType": "label.urban-area",
+      "stylers": {
+        "visibility": "off"
+      }
+    },
+    {
+      "featureType": "transport",
+      "stylers": {
+        "visibility": "off"
+      }
+    },
+    {
+      "featureType": "label.transport",
+      "zooms": "1-18",
+      "stylers": {
+        "visibility": "off"
+      }
+    },
+    {
+      "featureType": "road.trafficlight",
+      "stylers": {
+        "visibility": "off"
+      }
+    },
+    {
+      "featureType": "label.vegetation",
+      "stylers": {
+        "visibility": "off"
+      }
+    },
+    {
+      "featureType": "label.hydro",
+      "stylers": {
+        "visibility": "off"
+      }
+    },
+    {
+      "featureType": "label.relief",
+      "stylers": {
+        "visibility": "off"
+      }
+    },
+    {
+      "featureType": "road.marker",
+      "stylers": {
+        "visibility": "off"
+      }
+    }
+  ]
