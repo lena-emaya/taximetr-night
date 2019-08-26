@@ -67,21 +67,28 @@
         "featureType": "road.class1_0",
         "stylers": {
           "color": "#FAEFB1",
-          "outline-color": "#FAEFB1"
+          "outline-color": "#F1D68F"
         }
       },
       {
         "featureType": "road.class2_0",
         "stylers": {
           "color": "#FAEFB1",
-          "outline-color": "#FAEFB1"
+          "outline-color": "#F1D68F"
         }
       },
       {
         "featureType": "road.class3_0",
         "stylers": {
           "color": "#FAEFB1",
-          "outline-color": "#FAEFB1"
+          "outline-color": "#F1D68F"
+        }
+      },
+      {
+        "featureType": "road.class4_0",
+        "stylers": {
+          "color": "#FAEFB1",
+          "outline-color": "#F1D68F"
         }
       },
     {
@@ -102,12 +109,7 @@
         "visibility": "off"
       }
     },
-    {
-      "featureType": "label.transport.station.bus",
-      "stylers": {
-        "visibility": "off"
-      }
-    },
+   
     {
       "featureType": "label.road",
       "stylers": {
@@ -141,17 +143,12 @@
         "visibility": "off"
       }
     },
+   
     {
-      "featureType": "transport",
+      "featureType": "label.transport.station.metro",
+      "zooms": "0-30",
       "stylers": {
-        "visibility": "off"
-      }
-    },
-    {
-      "featureType": "label.transport",
-      "zooms": "1-18",
-      "stylers": {
-        "visibility": "off"
+        "saturation": -1
       }
     },
     {
