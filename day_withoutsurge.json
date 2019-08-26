@@ -64,6 +64,27 @@
       }
     },
     {
+        "featureType": "road.class1_0",
+        "stylers": {
+          "color": "#FAEFB1",
+          "outline-color": "#FAEFB1"
+        }
+      },
+      {
+        "featureType": "road.class2_0",
+        "stylers": {
+          "color": "#FAEFB1",
+          "outline-color": "#FAEFB1"
+        }
+      },
+      {
+        "featureType": "road.class3_0",
+        "stylers": {
+          "color": "#FAEFB1",
+          "outline-color": "#FAEFB1"
+        }
+      },
+    {
       "featureType": "road.highway",
       "selector": {
         "attribute": "func_class",
