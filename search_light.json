@@ -53,11 +53,16 @@
 		"stylers": {
 			"visibility": "off"
 		}
+	},
+	{
+		"featureType": "region_label",
+		"stylers": {
+			"visibility": "off"
+		}
  	},
   {
 		"featureType": "place_label",
 			"stylers": {
-				
 				"visibility": "off"
 			}
 	},
