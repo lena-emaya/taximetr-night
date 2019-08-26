@@ -8,13 +8,13 @@
     {
       "featureType": "building",
       "stylers": {
-        "color": "#f1eedb"
+        "color": "#ebe9db"
       }
     },
     {
       "featureType": "vegetation",
       "stylers": {
-        "color": "#CEEDD1"
+        "color": "#c7e7cb"
       }
     },
     {
@@ -39,84 +39,70 @@
     {
       "featureType": "urban-area.industrial",
       "stylers": {
-        "color": "#faf8f0"
-      }
-    },
-    {
-      "featureType": "label",
-      "stylers": {
-        "color": "#75705e",
-        "outline-color": "rgba(255,255,255,0)"
-      }
-    },
-    {
-      "featureType": "label.road.marker",
-      "stylers": {
-        "color": "#ffffff",
-        "opacity": "1.0"
+        "color": "#eae6ea"
       }
     },
     {
       "featureType": "road",
       "stylers": {
         "color": "#ffffff",
-        "outline-color": "#E0DBC5"
+        "outline-color": "#ece8d0"
       }
     },
     {
         "featureType": "road.class1_0",
         "stylers": {
-          "color": "#FAEFB1",
-          "outline-color": "#F1D68F"
+          "color": "#fcf0ab",
+          "outline-color": "#f2da91"
         }
     },
     {
         "featureType": "road.class1_1",
         "stylers": {
-          "color": "#FAEFB1",
-          "outline-color": "#F1D68F"
+          "color": "#fcf0ab",
+          "outline-color": "#f2da91"
         }
     },
     {
         "featureType": "road.class1_2",
         "stylers": {
-          "color": "#FAEFB1",
-          "outline-color": "#F1D68F"
+          "color": "#fcf0ab",
+          "outline-color": "#f2da91"
         }
     },
     {
       "featureType": "road.class2_0",
       "stylers": {
-        "color": "#FAEFB1",
-        "outline-color": "#F1D68F"
+        "color": "#fcf0ab",
+        "outline-color": "#f2da91"
       }
     },
     {
       "featureType": "road.class2_1",
       "stylers": {
-        "color": "#FAEFB1",
-        "outline-color": "#F1D68F"
+        "color": "#fcf0ab",
+        "outline-color": "#f2da91"
       }
     },
     {
       "featureType": "road.class2_2",
       "stylers": {
-        "color": "#FAEFB1",
-        "outline-color": "#F1D68F"
+        "color": "#fcf0ab",
+        "outline-color": "#f2da91"
       }
     },
     
     {
       "featureType": "label.road",
       "stylers": {
-        "color": "#75705e",
-        "outline-color": "rgba(255,255,255,0.75)"
+        "color": "#6a6553",
+        "outline-color": "rgba(255,255,255,0)"
       }
     },
     
    
     {
-      "featureType": "label.transport.station.metro",
+      "featureType": "label.transport",
       "zooms": "0-30",
       "stylers": {
         "saturation": -1
