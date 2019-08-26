@@ -71,6 +71,27 @@
         }
     },
     {
+        "featureType": "road.class1_3",
+        "stylers": {
+          "color": "#fcf0ab",
+          "outline-color": "#f2da91"
+        }
+    },
+    {
+        "featureType": "road.class1_4",
+        "stylers": {
+          "color": "#fcf0ab",
+          "outline-color": "#f2da91"
+        }
+    },
+    {
+        "featureType": "road.class1_5",
+        "stylers": {
+          "color": "#fcf0ab",
+          "outline-color": "#f2da91"
+        }
+    },
+    {
       "featureType": "road.class2_0",
       "stylers": {
         "color": "#fcf0ab",
@@ -91,7 +112,69 @@
         "outline-color": "#f2da91"
       }
     },
-    
+    {
+        "featureType": "road.class2_3",
+        "stylers": {
+          "color": "#fcf0ab",
+          "outline-color": "#f2da91"
+        }
+      },
+      {
+        "featureType": "road.class2_4",
+        "stylers": {
+          "color": "#fcf0ab",
+          "outline-color": "#f2da91"
+        }
+      },
+      {
+        "featureType": "road.class2_5",
+        "stylers": {
+          "color": "#fcf0ab",
+          "outline-color": "#f2da91"
+        }
+      },
+      {
+        "featureType": "road.class3_0",
+        "stylers": {
+          "color": "#fcf0ab",
+          "outline-color": "#f2da91"
+        }
+      },
+      {
+        "featureType": "road.class3_1",
+        "stylers": {
+          "color": "#fcf0ab",
+          "outline-color": "#f2da91"
+        }
+      },
+      {
+        "featureType": "road.class3_2",
+        "stylers": {
+          "color": "#fcf0ab",
+          "outline-color": "#f2da91"
+        }
+      },
+      {
+          "featureType": "road.class3_3",
+          "stylers": {
+            "color": "#fcf0ab",
+            "outline-color": "#f2da91"
+          }
+        },
+        {
+          "featureType": "road.class3_4",
+          "stylers": {
+            "color": "#fcf0ab",
+            "outline-color": "#f2da91"
+          }
+        },
+        {
+          "featureType": "road.class3_5",
+          "stylers": {
+            "color": "#fcf0ab",
+            "outline-color": "#f2da91"
+          }
+        },
     {
       "featureType": "label.road",
       "stylers": {
