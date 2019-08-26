@@ -105,25 +105,7 @@
         "outline-color": "#F1D68F"
       }
     },
-    {
-      "featureType": "road.highway",
-      "selector": {
-        "attribute": "func_class",
-        "operator": "equal",
-        "value": 1
-      },
-      "stylers": {
-        "color": "#fcefa9",
-        "outline-color": "#f2c35c"
-      }
-    },
-    {
-      "featureType": "road.local.pedestrian",
-      "stylers": {
-        "visibility": "off"
-      }
-    },
-   
+    
     {
       "featureType": "label.road",
       "stylers": {
@@ -131,68 +113,13 @@
         "outline-color": "rgba(255,255,255,0.75)"
       }
     },
-    {
-      "featureType": "road.local.direction",
-      "zooms": "1-18",
-      "stylers": {
-        "visibility": "off"
-      }
-    },
-    {
-      "featureType": "road.highway.direction",
-      "zooms": "1-18",
-      "stylers": {
-        "visibility": "off"
-      }
-    },
-    {
-      "featureType": "label.station",
-      "stylers": {
-        "visibility": "off"
-      }
-    },
-    {
-      "featureType": "label.urban-area",
-      "stylers": {
-        "visibility": "off"
-      }
-    },
+    
    
     {
       "featureType": "label.transport.station.metro",
       "zooms": "0-30",
       "stylers": {
         "saturation": -1
-      }
-    },
-    {
-      "featureType": "road.trafficlight",
-      "stylers": {
-        "visibility": "off"
-      }
-    },
-    {
-      "featureType": "label.vegetation",
-      "stylers": {
-        "visibility": "off"
-      }
-    },
-    {
-      "featureType": "label.hydro",
-      "stylers": {
-        "visibility": "off"
-      }
-    },
-    {
-      "featureType": "label.relief",
-      "stylers": {
-        "visibility": "off"
-      }
-    },
-    {
-      "featureType": "road.marker",
-      "stylers": {
-        "visibility": "off"
       }
     }
   ]
