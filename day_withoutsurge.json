@@ -225,10 +225,17 @@
 				}
 			},
 			{
-				"zooms": "17-30",
+				"zooms": "17-18",
 				"stylers": {
-					"line-width": 7.5,
-					"outline-width": 8.5
+					"line-width": 8,
+					"outline-width": 9
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"line-width": 11,
+					"outline-width": 12
 				}
 			}
 		]			
