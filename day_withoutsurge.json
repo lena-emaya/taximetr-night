@@ -1,6 +1,6 @@
 [ 
 	{
-		"featureType": "road.class2_1",
+		"featureType": "road",
 		"stylers": {
 			"color": "#ffffff",
 			"outline-color": "#d9d6bf"
