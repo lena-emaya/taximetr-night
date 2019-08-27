@@ -2045,26 +2045,26 @@
 			{
 				"zooms": "10-11",
 				"stylers": {
-					"line-width": 0.5,
+					"line-width": 0.35,
 					"color": "#ffffff",
 					"outline-color": "#c8c4a7",
-					"outline-width": 0.75
+					"outline-width": 0.55
 				}
 			},
 			{
 				"zooms": "11-12",
 				"stylers": {
-					"line-width": 1.25,
+					"line-width": 1,
 					"color": "#ffffff",
 					"outline-color": "#c8c4a7",
-					"outline-width": 2
+					"outline-width": 1.5
 				}
 			},
 			{
 				"zooms": "12-13",
 				"stylers": {
-					"line-width": 2,
-					"outline-width": 3,
+					"line-width": 1.75,
+					"outline-width": 2.85,
 					"color": "#ffffff",
 					"outline-color": "#c8c4a7"
 				
