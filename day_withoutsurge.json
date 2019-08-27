@@ -2237,6 +2237,18 @@
 		}
 	},
 	{
+    "featureType": "road.local.pedestrian",
+    "stylers": {
+			"visibility": "off"
+		}
+	},
+	{
+    "featureType": "nonauto.road",
+    "stylers": {
+			"visibility": "off"
+		}
+	},
+	{
 		"featureType": "hydro",
 		"stylers": {
 			"color": "#cedeee"
