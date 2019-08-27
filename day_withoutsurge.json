@@ -100,15 +100,9 @@
       "color": "#eae6ea"
     }
   },
-  {
-    "featureType": "road",
-    "stylers": {
-      "color": "#ffffff",
-      "outline-color": "#d1cdad"
-    }
-	},
+  
 	{
-    "featureType": "road.class1_0",
+    "featureType": ["road.class1_0","road"],
     "stylers": {
       "color": "#c60cbc",
 			"outline-color": "#21c60c"
