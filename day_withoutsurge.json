@@ -111,7 +111,7 @@
     "featureType": ["road.class1_0", "road.class1_2", "road.class1_3", "road.class1_4"],
     "stylers": {
       "color": "#270cc6",
-			"outline-color": "#21c60c"
+			"outline-color": "#c62e0c"
     }
   },
   {
