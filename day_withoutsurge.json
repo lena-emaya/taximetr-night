@@ -346,9 +346,16 @@
 	},
   {
     "featureType": "label.transport",
-    "zooms": "0-30",
+    "zooms": "0-12",
     "stylers": {
-      "saturation": -1
+      "visibility": "off"
+    }
+	},
+	{
+    "featureType": "label.transport",
+    "zooms": "12-30",
+    "stylers": {
+      "saturation": -0.4
     }
 	},
 	{
