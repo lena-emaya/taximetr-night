@@ -175,59 +175,60 @@
 			{
 				"zooms": "10-11",
 				"stylers": {
-					"line-width": 1.3,
+					"line-width": 2,
 					
-					"outline-width": 1.6
+					"outline-width": 2.6
 				}
 			},
 			{
 				"zooms": "11-12",
 				"stylers": {
-					"line-width": 1.5,
+					"line-width": 2.5,
 				
-					"outline-width": 1.8
+					"outline-width": 2.8
 				}
 			},
 			{
 				"zooms": "12-13",
 				"stylers": {
-					
-					"scale": 0.35
+					"line-width": 2.95,
+					"outline-width": 3
+				
 				}
 			},
 			{
 				"zooms": "13-14",
 				"stylers": {
-					
-					"scale": 0.4
+					"line-width": 3,
+					"outline-width": 4
 				}
 			},
 			{
 				"zooms": "14-15",
 				"stylers": {
-					
-					"scale": 0.48
+					"line-width": 3.5,
+					"outline-width": 4
 				}
 			},
 			{
 				"zooms": "15-16",
 				"stylers": {
-				
-					"scale": 0.58
+					"line-width": 4,
+					"outline-width": 5
 				}
 			},
 			{
 				"zooms": "16-17",
 				"stylers": {
-				
-					"scale": 0.7
+					"line-width": 5.5,
+					"outline-width": 7
 				}
 			},
 			{
 				"zooms": "17-30",
 				"stylers": {
-					
-					"scale": 0.75
+					"line-width": 6,
+					"outline-width": 8
 				}
 			}
 		]			
