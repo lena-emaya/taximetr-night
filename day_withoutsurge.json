@@ -1,16 +1,39 @@
 [
-    {
-      "featureType": "hydro",
-      "stylers": {
-        "color": "#C7D7E7"
-      }
-    },
-    {
-      "featureType": "building",
-      "stylers": {
-        "color": "#ebe9db"
-      }
-    },
+  {
+    "featureType": "ferry",
+    "stylers": {
+			"visibility": "off"
+		}
+	},
+	{
+		"featureType": "hydro",
+		"stylers": {
+			"color": "#cedeee"}
+ 	},
+  {
+    "featureType": "hydro_a_label",
+    "stylers": {
+      "color": "#8fa7c1"
+    }
+  },
+  {
+    "featureType": "hydro.hydro_l.hydro_l_label_0",
+    "stylers": {
+        "color": "#8fa7c1"
+    }
+  },
+  {
+    "featureType": "hydro.hydro_l.hydro_l_0",
+    "stylers": {
+        "color": "#FA479F"
+    }
+  },
+  {
+    "featureType": "building",
+    "stylers": {
+      "color": "#ebe9db"
+    }
+  },
     {
       "featureType": "vegetation",
       "stylers": {
