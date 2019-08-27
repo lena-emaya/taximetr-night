@@ -1,130 +1,5 @@
 [
   {
-    "featureType": "ferry",
-    "stylers": {
-			"visibility": "off"
-		}
-	},
-	{
-		"featureType": "hydro",
-		"stylers": {
-			"color": "#cedeee"
-		}
-	},
-	{
-    "featureType": "hydro.hydro_l.hydro_l_0",
-    "stylers": {
-        "color": "#cedeee"
-    }
-  },
-  {
-    "featureType": "hydro_a_label",
-    "stylers": {
-      "color": "#8fa7c1"
-    }
-  },
-  {
-    "featureType": "hydro.hydro_l.hydro_l_label_0",
-    "stylers": {
-        "color": "#8fa7c1"
-    }
-  },
-  {
-    "featureType": "building",
-    "stylers": {
-      "color": "#f0eee0"
-    }
-	},
-	{
-    "featureType": "place_label",
-    "stylers": {
-			"color": "#ccc",
-			"outline-color": "#fff"
-    }
-	},
-	{
-		"featureType": "border",
- 	 "stylers": {
- 		 	"color": "#999588",
-			"scale": 0.7,
-			"outline-color":"rgba(0, 0, 0, 0)"
-		}
-	},
-
-  {
-		"featureType": "vegetation",
-		"zoomSlices": [
-			{
-				"zooms": "3-8",
-				"stylers": {
-					"opacity": 0.3,
-					"color": "#c7e7cb"
-			}
-			},
-			{
-				"zooms": "8-9",
-				"stylers": {
-					"opacity": 0.45,
-					"color": "#c7e7cb"
-				}
-			},
-			{
-				"zooms": "9-11",
-				"stylers": {
-					"opacity": 0.65,
-					"color": "#c7e7cb"
-				}
-			},
-			{
-				"zooms": "11-13",
-				"stylers": {
-					"opacity": 0.7,
-					"color": "#c7e7cb"
-				}
-			},
-			{
-				"zooms": "13-15",
-				"stylers": {
-					"opacity": 0.65,
-					"color": "#c7e7cb"
-				}
-			},
-			{
-				"zooms": "15-22",
-				"stylers": {
-					"opacity":0.45,
-					"color": "#c7e7cb"
-			}
-			}
-		]
-	},
-  {
-    "featureType": "admin",
-    "stylers": {
-      "color": "#faf8f0"
-    }
-  },
-  {
-    "featureType": "urban-area",
-    "stylers": {
-      "color": "#faf8f0"
-    }
-  },
-  {
-    "featureType": "urban-area.industrial",
-    "stylers": {
-      "color": "#eae6ea"
-    }
-  },
-  {
-    "featureType": "road",
-    "stylers": {
-      "color": "#ffffff",
-      "outline-color": "#d9d6bf"
-    }
-	},
-	
-  {
     "featureType": ["road.class1_0"],
 		"zoomSlices": [
 			{
@@ -1015,9 +890,9 @@
 			{
 				"zooms": "18-30",
 				"stylers": {
-					"line-width": 12,
 					"color": "#ffe68c",
       		"outline-color": "#f9d75d",
+					"line-width": 12,
 					"outline-width": 13
 				}
 			}
@@ -1317,6 +1192,123 @@
 			"lightness": 0.3,
 			"color": "#6c5942",
 			"outline-color":"rgba(255,255,255,0)"
+    }
+	},
+	{
+    "featureType": "ferry",
+    "stylers": {
+			"visibility": "off"
+		}
+	},
+	{
+		"featureType": "hydro",
+		"stylers": {
+			"color": "#cedeee"
+		}
+	},
+	{
+    "featureType": "hydro.hydro_l.hydro_l_0",
+    "stylers": {
+        "color": "#cedeee"
+    }
+  },
+  {
+    "featureType": "hydro_a_label",
+    "stylers": {
+      "color": "#8fa7c1"
+    }
+  },
+  {
+    "featureType": "hydro.hydro_l.hydro_l_label_0",
+    "stylers": {
+        "color": "#8fa7c1"
+    }
+  },
+  {
+    "featureType": "building",
+    "stylers": {
+      "color": "#f0eee0"
+    }
+	},
+	{
+    "featureType": "place_label",
+    "stylers": {
+			"color": "#ccc",
+			"outline-color": "#fff"
+    }
+	},
+	{
+		"featureType": "border",
+ 	 "stylers": {
+ 		 	"color": "#999588",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)"
+		}
+	},
+
+  {
+		"featureType": "vegetation",
+		"zoomSlices": [
+			{
+				"zooms": "3-8",
+				"stylers": {
+					"opacity": 0.3,
+					"color": "#c7e7cb"
+			}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"opacity": 0.45,
+					"color": "#c7e7cb"
+				}
+			},
+			{
+				"zooms": "9-11",
+				"stylers": {
+					"opacity": 0.65,
+					"color": "#c7e7cb"
+				}
+			},
+			{
+				"zooms": "11-13",
+				"stylers": {
+					"opacity": 0.7,
+					"color": "#c7e7cb"
+				}
+			},
+			{
+				"zooms": "13-15",
+				"stylers": {
+					"opacity": 0.65,
+					"color": "#c7e7cb"
+				}
+			},
+			{
+				"zooms": "15-22",
+				"stylers": {
+					"opacity":0.45,
+					"color": "#c7e7cb"
+			}
+			}
+		]
+	},
+  {
+    "featureType": "admin",
+    "stylers": {
+      "color": "#faf8f0"
+    }
+  },
+  {
+    "featureType": "urban-area",
+    "stylers": {
+      "color": "#faf8f0"
+    }
+  },
+  {
+    "featureType": "urban-area.industrial",
+    "stylers": {
+      "color": "#eae6ea"
     }
   }
 ]
