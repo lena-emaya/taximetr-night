@@ -5432,7 +5432,8 @@
 		"featureType": "nonauto.road.arrows_0",
 		"stylers": {
 			"visibility":"on",
-			"opacity": 0.75
+			"opacity": 0.75,
+			"lightness": 1
 		}
 	 },
 	 {
