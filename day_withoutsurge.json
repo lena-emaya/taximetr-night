@@ -14,26 +14,26 @@
 				"stylers": {
 					"color": "#ffe68c",
       		"outline-color": "#f9d75d",
-					"line-width": 0.6,
-					"outline-width": 0.7
+					"line-width": 0.1,
+					"outline-width": 0.2
 				}
 			},
 			{
 				"zooms": "4-5",
 				"stylers": {
-					"line-width": 0.7,
+					"line-width": 0.2,
 					"color": "#ffe68c",
       		"outline-color": "#f9d75d",
-					"outline-width": 0.8
+					"outline-width": 0.3
 				}
 			},
 			{
 				"zooms": "5-6",
 				"stylers": {
-					"line-width": 0.8,
+					"line-width": 0.5,
 					"color": "#ffe68c",
       		"outline-color": "#f9d75d",
-					"outline-width": 0.9
+					"outline-width": 0.8
 				}
 			},
 			{
@@ -2284,6 +2284,13 @@
 			"color": "#706348",
 			"outline-color": "#faf8f0"
     }
+	},
+	{
+		"featureType": "country_label",
+		"stylers": {
+			"color": "#a4a096",
+			"outline-color": "rgba(0, 0, 0, 0)"
+		}
 	},
 	{
 		"featureType": "border",
