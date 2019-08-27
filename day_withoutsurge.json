@@ -836,6 +836,23 @@
     }
 	},
 	{
+    "featureType": "gas_station",
+    "stylers": {
+			"lightness": 0.3,
+			"color": "#6c5942",
+			"outline-color":"rgba(255,255,255,0)"
+    }
+	},
+	{
+		"featureType": "building_number",
+		"stylers": {
+		"color": "#BFBDB2",
+		"outline-color": "rgba(249, 247, 242, 0)",
+		"outline-width": 0,
+		"scale": 0.9
+		}
+	 },
+	{
     "featureType": "ferry",
     "stylers": {
 			"visibility": "off"
