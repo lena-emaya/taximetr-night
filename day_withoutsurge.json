@@ -2036,19 +2036,19 @@
 			{
 				"zooms": "9-10",
 				"stylers": {
-					"line-width": 0.3,
-					"color": "#ffffff",
-					"outline-color": "#94917a",
-					"outline-width": 0.5
+					"line-width": 0.2,
+					"color": "#c8c4a7",
+					"outline-color": "#c8c4a7",
+					"outline-width": 0
 				}
 			},
 			{
 				"zooms": "10-11",
 				"stylers": {
-					"line-width": 0.8,
+					"line-width": 0.5,
 					"color": "#ffffff",
-					"outline-color": "#94917a",
-					"outline-width": 1.25
+					"outline-color": "#c8c4a7",
+					"outline-width": 0.75
 				}
 			},
 			{
@@ -2321,91 +2321,91 @@
 	{
 		"featureType": "nonauto.road.arrows",
 		"stylers": {
-			"opacity": 0.5
+			"opacity": 0.75
 		}
 	 },
 	 {
 		"featureType": "nonauto.road.arrows_0",
 		"stylers": {
-			"opacity": 0.5
+			"opacity": 0.75
 		}
 	 },
 	 {
 		"featureType": "nonauto.road.arrows_1",
 		"stylers": {
-			"opacity": 0.5
+			"opacity": 0.75
 		}
 	 },
 	 {
 		"featureType": "nonauto.road.arrows_2",
 		"stylers": {
-			"opacity": 0.5
+			"opacity": 0.75
 		}
 	 },
 	 {
 		"featureType": "nonauto.road.arrows_3",
 		"stylers": {
-			"opacity": 0.5
+			"opacity": 0.75
 		}
 	 },
 	 {
 		"featureType": "nonauto.road.arrows_4",
 		"stylers": {
-			"opacity": 0.5
+			"opacity": 0.75
 		}
 	 },
 	 {
 		"featureType": "nonauto.road.arrows_5",
 		"stylers": {
-			"opacity": 0.5
+			"opacity": 0.75
 		}
 	 },
 	 {
 		"featureType": "nonauto.road.arrows_6",
 		"stylers": {
-			"opacity": 0.5
+			"opacity": 0.75
 		}
 	 },
 	 {
 		"featureType": "nonauto.road.arrows_7",
 		"stylers": {
-			"opacity": 0.5
+			"opacity": 0.75
 		}
 	 },
 	 {
 		"featureType": "nonauto.road.arrows_8",
 		"stylers": {
-			"opacity": 0.5
+			"opacity": 0.75
 		}
 	 },
 	 {
 		"featureType": "nonauto.road.arrows_9",
 		"stylers": {
-			"opacity": 0.5
+			"opacity": 0.75
 		}
 	 },
 	 {
 		"featureType": "nonauto.road.arrows_10",
 		"stylers": {
-			"opacity": 0.5
+			"opacity": 0.75
 		}
 	 },
 	 {
 		"featureType": "nonauto.road.arrows_11",
 		"stylers": {
-			"opacity": 0.5
+			"opacity": 0.75
 		}
 	 },
 	 {
 		"featureType": "nonauto.road.arrows_12",
 		"stylers": {
-			"opacity": 0.5
+			"opacity": 0.75
 		}
 	 },
 	 {
 		"featureType": "nonauto.road.arrows_13",
 		"stylers": {
-			"opacity": 0.5
+			"opacity": 0.75
 		}
 	 }
 ]
