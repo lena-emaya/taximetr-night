@@ -15,11 +15,20 @@
 					"color": "#ffe68c",
       		"outline-color": "#f9d75d",
 					"line-width": 0.1,
-					"outline-width": 0.2
+					"outline-width": 0.15
 				}
 			},
 			{
 				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#ffe68c",
+      		"outline-color": "#f9d75d",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
 				"stylers": {
 					"line-width": 0.2,
 					"color": "#ffe68c",
@@ -28,21 +37,12 @@
 				}
 			},
 			{
-				"zooms": "5-6",
+				"zooms": "6-7",
 				"stylers": {
 					"line-width": 0.5,
 					"color": "#ffe68c",
       		"outline-color": "#f9d75d",
-					"outline-width": 0.8
-				}
-			},
-			{
-				"zooms": "6-7",
-				"stylers": {
-					"line-width": 1,
-					"color": "#ffe68c",
-      		"outline-color": "#f9d75d",
-					"outline-width": 1.2
+					"outline-width": 1
 				}
 			},
 			{
