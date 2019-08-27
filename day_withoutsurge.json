@@ -137,7 +137,7 @@
 				"zooms": "3-4",
 				"stylers": {
 					"color": "#ffe68c",
-      "outline-color": "#f9d75d",
+      		"outline-color": "#f9d75d",
 					"line-width": 0.6,
 					"outline-width": 0.7
 				}
@@ -258,19 +258,14 @@
 			}
 		]			
 	},
-	{
-    "featureType": ["road.class1_1"],
-    "stylers": {
-      "color": "#ffe68c",
-      "outline-color": "#f9d75d"
-    }
-  },
   {
     "featureType": ["road.class1_1"],
 		"zoomSlices": [
 			{
 				"zooms": "3-4",
 				"stylers": {
+					"color": "#ffe68c",
+      		"outline-color": "#f9d75d",
 					"line-width": 0.6,
 					"outline-width": 0.7
 				}
@@ -391,19 +386,14 @@
 			}
 		]			
 	},
-	{
-    "featureType": ["road.class1_2"],
-    "stylers": {
-      "color": "#ffe68c",
-      "outline-color": "#f9d75d"
-    }
-  },
   {
     "featureType": ["road.class1_2"],
 		"zoomSlices": [
 			{
 				"zooms": "3-4",
 				"stylers": {
+					"color": "#ffe68c",
+      		"outline-color": "#f9d75d",
 					"line-width": 0.6,
 					"outline-width": 0.7
 				}
@@ -524,19 +514,14 @@
 			}
 		]			
 	},
-	{
-    "featureType": ["road.class1_3"],
-    "stylers": {
-      "color": "#ffe68c",
-      "outline-color": "#f9d75d"
-    }
-  },
   {
     "featureType": ["road.class1_3"],
 		"zoomSlices": [
 			{
 				"zooms": "3-4",
 				"stylers": {
+					"color": "#ffe68c",
+      		"outline-color": "#f9d75d",
 					"line-width": 0.6,
 					"outline-width": 0.7
 				}
@@ -657,19 +642,14 @@
 			}
 		]			
 	},
-	{
-    "featureType": ["road.class1_4"],
-    "stylers": {
-      "color": "#ffe68c",
-      "outline-color": "#f9d75d"
-    }
-  },
   {
     "featureType": ["road.class1_4"],
 		"zoomSlices": [
 			{
 				"zooms": "3-4",
 				"stylers": {
+					"color": "#ffe68c",
+      		"outline-color": "#f9d75d",
 					"line-width": 0.6,
 					"outline-width": 0.7
 				}
@@ -790,19 +770,14 @@
 			}
 		]			
 	},
-	{
-    "featureType": ["road.class1_5"],
-    "stylers": {
-      "color": "#ffe68c",
-      "outline-color": "#f9d75d"
-    }
-  },
   {
     "featureType": ["road.class1_5"],
 		"zoomSlices": [
 			{
 				"zooms": "3-4",
 				"stylers": {
+					"color": "#ffe68c",
+      		"outline-color": "#f9d75d",
 					"line-width": 0.6,
 					"outline-width": 0.7
 				}
