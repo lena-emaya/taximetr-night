@@ -213,29 +213,29 @@
 			{
 				"zooms": "15-16",
 				"stylers": {
-					"line-width": 5.5,
-					"outline-width": 6.5
+					"line-width": 6,
+					"outline-width": 7
 				}
 			},
 			{
 				"zooms": "16-17",
 				"stylers": {
-					"line-width": 6.5,
-					"outline-width": 7.5
+					"line-width": 7,
+					"outline-width": 8
 				}
 			},
 			{
 				"zooms": "17-18",
 				"stylers": {
-					"line-width": 8,
-					"outline-width": 9
+					"line-width": 10,
+					"outline-width":11
 				}
 			},
 			{
 				"zooms": "18-30",
 				"stylers": {
-					"line-width": 11,
-					"outline-width": 12
+					"line-width": 12,
+					"outline-width": 13
 				}
 			}
 		]			
