@@ -108,14 +108,14 @@
     }
 	},
 	{
-    "featureType": "road.class1_0",
+    "featureType": ["road.class1_0", "road.class1_2", "road.class1_3", "road.class1_4"],
     "stylers": {
       "color": "#c60cbc",
 			"outline-color": "#21c60c"
     }
   },
   {
-    "featureType": "road.class1_0",
+    "featureType": ["road.class1_0", "road.class1_2", "road.class1_3", "road.class1_4"],
 		"zoomSlices": [
 			{
 				"zooms": "3-4",
@@ -240,41 +240,6 @@
 			}
 		]			
 	},
-  {
-    "featureType": "road.class1_1",
-    "stylers": {
-      "color": "#ffe68c",
-      "outline-color": "#f9d75d"
-    }
-  },
-  {
-      "featureType": "road.class1_2",
-      "stylers": {
-        "color": "#ffe68c",
-        "outline-color": "#f9d75d"
-      }
-  },
-  {
-      "featureType": "road.class1_3",
-      "stylers": {
-        "color": "#ffe68c",
-        "outline-color": "#f9d75d"
-      }
-  },
-  {
-      "featureType": "road.class1_4",
-      "stylers": {
-        "color": "#ffe68c",
-        "outline-color": "#f9d75d"
-      }
-  },
-  {
-      "featureType": "road.class1_5",
-      "stylers": {
-        "color": "#ffe68c",
-        "outline-color": "#f9d75d"
-      }
-  },
     {
       "featureType": "road.class2_0",
       "stylers": {
