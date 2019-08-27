@@ -2165,9 +2165,9 @@
 			{
 				"zooms": "12-22",
 				"stylers": {
-					"saturation": -0.4,
-					"color": "#6c5942",
-					"outline-color":"rgba(255,255,255,0)"
+					"lightness": 0.2,
+					"saturation": -0.2,
+					"color": "#6c5942"
 				}
 			}
 		]
@@ -2178,8 +2178,8 @@
 			{
 				"zooms": "8-14",
 				"stylers": {
-					"color": "#c2bdae",
-					"scale": 0.95
+					"color": "#a99f7e"
+					
 				}
 			},
 			{
@@ -2202,6 +2202,14 @@
     "stylers": {
 			"lightness": 0.3,
 			"color": "#6c5942",
+			"outline-color":"rgba(255,255,255,0)"
+    }
+	},
+	{
+		"featureType": "poi.veget_label_0",
+		"stylers": {
+			"lightness": 0.3,
+			"color": "#3E9670",
 			"outline-color":"rgba(255,255,255,0)"
     }
 	},
