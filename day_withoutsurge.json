@@ -175,9 +175,9 @@
 			{
 				"zooms": "10-11",
 				"stylers": {
-					"line-width": 2,
+					"line-width": 1.8,
 					
-					"outline-width": 2.6
+					"outline-width": 2.4
 				}
 			},
 			{
@@ -191,44 +191,44 @@
 			{
 				"zooms": "12-13",
 				"stylers": {
-					"line-width": 2.95,
-					"outline-width": 3
+					"line-width": 3,
+					"outline-width": 3.5
 				
 				}
 			},
 			{
 				"zooms": "13-14",
 				"stylers": {
-					"line-width": 3,
-					"outline-width": 4
+					"line-width": 3.5,
+					"outline-width": 4.5
 				}
 			},
 			{
 				"zooms": "14-15",
 				"stylers": {
-					"line-width": 3.5,
-					"outline-width": 4
+					"line-width": 4.5,
+					"outline-width": 5.5
 				}
 			},
 			{
 				"zooms": "15-16",
 				"stylers": {
-					"line-width": 4,
-					"outline-width": 5
+					"line-width": 5.5,
+					"outline-width": 6.5
 				}
 			},
 			{
 				"zooms": "16-17",
 				"stylers": {
-					"line-width": 5.5,
-					"outline-width": 7
+					"line-width": 6.5,
+					"outline-width": 7.5
 				}
 			},
 			{
 				"zooms": "17-30",
 				"stylers": {
-					"line-width": 6,
-					"outline-width": 8
+					"line-width": 7.5,
+					"outline-width": 8.5
 				}
 			}
 		]			
