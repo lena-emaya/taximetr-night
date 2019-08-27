@@ -8,6 +8,7 @@
 	{
 		"featureType": "hydro",
 		"stylers": {
+			"opacity": 0,
 			"color": "#cedeee"}
 	},
 	{
