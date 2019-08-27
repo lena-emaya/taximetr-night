@@ -100,9 +100,15 @@
       "color": "#eae6ea"
     }
   },
-  
+  {
+    "featureType": "road",
+    "stylers": {
+      "color": "#ffffff",
+      "outline-color": "#d1cdad"
+    }
+	},
 	{
-    "featureType": ["road.class1_0","road"],
+    "featureType": "road.class1_0",
     "stylers": {
       "color": "#c60cbc",
 			"outline-color": "#21c60c"
@@ -114,72 +120,72 @@
 			{
 				"zooms": "3-4",
 				"stylers": {
-					"line-width": 0.1,
-					"outline-width": 0.15
+					"line-width": 0.6,
+					"outline-width": 0.7
 				}
 			},
 			{
 				"zooms": "4-5",
 				"stylers": {
-					"line-width": 0.1,
+					"line-width": 0.7,
 				
-					"outline-width": 0.15
+					"outline-width": 0.8
 				}
 			},
 			{
 				"zooms": "5-6",
 				"stylers": {
-					"line-width": 0.1,
+					"line-width": 0.8,
 					
-					"outline-width": 0.2
+					"outline-width": 0.9
 				}
 			},
 			{
 				"zooms": "6-7",
 				"stylers": {
-					"line-width": 0.1,
+					"line-width": 1,
 					
-					"outline-width": 0.2
+					"outline-width": 1.2
 				}
 			},
 			{
 				"zooms": "7-8",
 				"stylers": {
-					"line-width": 0.1,
+					"line-width": 1.1,
 				
-					"outline-width": 0.3
+					"outline-width": 1.3
 				}
 			},
 			{
 				"zooms": "8-9",
 				"stylers": {
-					"line-width": 0.2,
+					"line-width": 1.2,
 					
-					"outline-width": 0.4
+					"outline-width": 1.4
 				}
 			},
 			{
 				"zooms": "9-10",
 				"stylers": {
-					"line-width": 0.2,
+					"line-width": 1.2,
 					
-					"outline-width": 0.4
+					"outline-width": 1.4
 				}
 			},
 			{
 				"zooms": "10-11",
 				"stylers": {
-					"line-width": 0.3,
+					"line-width": 1.3,
 					
-					"outline-width": 0.6
+					"outline-width": 1.6
 				}
 			},
 			{
 				"zooms": "11-12",
 				"stylers": {
-					"line-width": 0.5,
+					"line-width": 1.5,
 				
-					"outline-width": 0.8
+					"outline-width": 1.8
 				}
 			},
 			{
