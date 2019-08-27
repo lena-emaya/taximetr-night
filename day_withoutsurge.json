@@ -687,34 +687,34 @@
 			{
 				"zooms": "9-10",
 				"stylers": {
-					"line-width": 1,
+					"line-width": 0.6,
 					"color": "#ffffff",
-					"outline-color": "#d9d6bf",
-					"outline-width": 1.5
+					"outline-color": "#984FE8",
+					"outline-width": 1
 				}
 			},
 			{
 				"zooms": "10-11",
 				"stylers": {
-					"line-width": 1.5,
+					"line-width": 1,
 					"color": "#ffffff",
-					"outline-color": "#d9d6bf",
-					"outline-width": 2
+					"outline-color": "#984FE8",
+					"outline-width": 1.5
 				}
 			},
 			{
 				"zooms": "11-12",
 				"stylers": {
-					"line-width": 2,
+					"line-width": 1.75,
 					"color": "#ffffff",
 					"outline-color": "#984FE8",
-					"outline-width": 2.5
+					"outline-width": 2.25
 				}
 			},
 			{
 				"zooms": "12-13",
 				"stylers": {
-					"line-width": 2.5,
+					"line-width": 2,
 					"outline-width": 3,
 					"color": "#ffffff",
 					"outline-color": "#984FE8"
