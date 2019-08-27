@@ -106,20 +106,138 @@
       "color": "#ffffff",
       "outline-color": "#d1cdad"
     }
+	},
+	{
+    "featureType": "road.class1_0",
+    "stylers": {
+      "color": "#c60cbc",
+			"outline-color": "#21c60c"
+    }
   },
   {
-      "featureType": "road.class1_0",
-      "stylers": {
-        "color": "#ffe68c",
-        "outline-color": "#f9d75d"
-      }
-  },
+    "featureType": "road.class1_0",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+				
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.1,
+					
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.1,
+					
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 0.1,
+				
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 0.2,
+					
+					"outline-width": 0.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 0.2,
+					
+					"outline-width": 0.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 0.3,
+					
+					"outline-width": 0.6
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 0.5,
+				
+					"outline-width": 0.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					
+					"scale": 0.35
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					
+					"scale": 0.4
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					
+					"scale": 0.48
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+				
+					"scale": 0.58
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+				
+					"scale": 0.7
+				}
+			},
+			{
+				"zooms": "17-30",
+				"stylers": {
+					
+					"scale": 0.75
+				}
+			}
+		]			
+	},
   {
-      "featureType": "road.class1_1",
-      "stylers": {
-        "color": "#ffe68c",
-        "outline-color": "#f9d75d"
-      }
+    "featureType": "road.class1_1",
+    "stylers": {
+      "color": "#ffe68c",
+      "outline-color": "#f9d75d"
+    }
   },
   {
       "featureType": "road.class1_2",
