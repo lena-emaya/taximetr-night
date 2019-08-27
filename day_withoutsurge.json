@@ -108,14 +108,14 @@
     }
 	},
 	{
-    "featureType": ["road.class1_0", "road.class1_2", "road.class1_3", "road.class1_4", "road.class2_0", "road.class2_2", "road.class2_3", "road.class2_4","road.class3_0", "road.class3_2", "road.class3_3", "road.class3_4"],
+    "featureType": ["road.class1_0", "road.class1_2", "road.class1_3", "road.class1_4"],
     "stylers": {
-      "color": "#c60cbc",
+      "color": "#270cc6",
 			"outline-color": "#21c60c"
     }
   },
   {
-    "featureType":  ["road.class1_0", "road.class1_2", "road.class1_3", "road.class1_4", "road.class2_0", "road.class2_2", "road.class2_3", "road.class2_4","road.class3_0", "road.class3_2", "road.class3_3", "road.class3_4"],
+    "featureType": ["road.class1_0", "road.class1_2", "road.class1_3", "road.class1_4"],
 		"zoomSlices": [
 			{
 				"zooms": "3-4",
