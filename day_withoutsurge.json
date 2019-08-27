@@ -1,4 +1,11 @@
-[
+[ 
+	{
+		"featureType": "road.class2_1",
+		"stylers": {
+			"color": "#ffffff",
+			"outline-color": "#d9d6bf"
+		}
+	},
   {
     "featureType": "road.class1_0",
 		"zoomSlices": [
@@ -771,8 +778,8 @@
 	{
     "featureType": "place_label",
     "stylers": {
-			"color": "#ccc",
-			"outline-color": "#fff"
+			"color": "#706348",
+			"outline-color": "#faf8f0"
     }
 	},
 	{
