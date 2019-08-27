@@ -101,13 +101,13 @@
       "color": "#eae6ea"
     }
   },
-    {
-      "featureType": "road",
-      "stylers": {
-        "color": "#ffffff",
-        "outline-color": "#ece8d0"
-      }
-    },
+  {
+    "featureType": "road",
+    "stylers": {
+      "color": "#ffffff",
+      "outline-color": "#d1cdad"
+    }
+  },
     {
         "featureType": "road.class1_0",
         "stylers": {
@@ -253,12 +253,20 @@
 			{
 				"zooms": "12-22",
 				"stylers": {
+					"scale": 0.8,
 					"lightness": 0.45,
 					"visibility": "on"
 				}
 			}
 		]
-	 },
+	},
+	{
+		"featureType": "nonauto.road.tram_0",
+		"stylers": {
+			"lightness": 0.45,
+			"scale": 0.8
+		}
+	},
   {
     "featureType": "label.transport",
     "zooms": "0-30",
