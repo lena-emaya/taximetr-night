@@ -206,17 +206,15 @@
 			{
 				"zooms": "0-12",
 				"stylers": {
-					"lightness": 0.6,
-					"visibility": "off",
-					"opacity": 0
-					}
+					"visibility": "off"
+				}
 			},
 			{
 				"zooms": "12-22",
 				"stylers": {
-					"lightness": 0.35,
+					"lightness": 0.45,
 					"visibility": "on"
-					}
+				}
 			}
 		]
 	 },
@@ -225,6 +223,13 @@
     "zooms": "0-30",
     "stylers": {
       "saturation": -1
+    }
+	},
+	{
+    "featureType": "poi",
+    "stylers": {
+			"lightness": 0.3,
+			"color": "#6c5942"
     }
   }
 ]
