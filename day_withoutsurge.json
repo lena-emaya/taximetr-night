@@ -1,6 +1,6 @@
 [
   {
-    "featureType": ["road.class1_0"],
+    "featureType": "road.class1_0",
 		"zoomSlices": [
 			{
 				"zooms": "3-4",
