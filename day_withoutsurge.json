@@ -5233,8 +5233,8 @@
 			{
 				"zooms": "8-14",
 				"stylers": {
-					"color": "#a99f7e"
-					
+					"color": "#9e998a",
+					"outline-color":"rgba(0, 0, 0, 0)"
 				}
 			},
 			{
@@ -5249,11 +5249,20 @@
 		"featureType": "nonauto.road.tram_0",
 		"stylers": {
 			"lightness": 0.45,
-			"scale": 0.8
+			"scale": 0.8,
+			"visibility":"on"
 		}
 	},
 	{
-    "featureType": "poi",
+		"featureType": "poi",
+		"zooms": "0-17",
+    "stylers": {
+			"visibility": "off"
+    }
+	},
+	{
+		"featureType": "poi",
+		"zooms": "17-30",
     "stylers": {
 			"lightness": 0.4,
 			"color": "#6c5942",
