@@ -5330,7 +5330,8 @@
   {
     "featureType": "building",
     "stylers": {
-      "color": "#F5F2E6"
+			"color": "#FCFCF7",
+			"opacity": 0.8
     }
 	},
 	{
