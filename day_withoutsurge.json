@@ -5368,7 +5368,6 @@
 
   {
 		"featureType": "vegetation",
-		"zooms": "3-8",
 		"stylers": {
 			"opacity": 1,
 			"color": "#e3fce7"
