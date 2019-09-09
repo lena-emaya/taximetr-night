@@ -5255,7 +5255,7 @@
 	{
     "featureType": "poi",
     "stylers": {
-			"lightness": 0.3,
+			"lightness": 0.4,
 			"color": "#6c5942",
 			"outline-color":"rgba(255,255,255,0)"
     }
@@ -5263,7 +5263,7 @@
 	{
 		"featureType": "poi.veget_label_0",
 		"stylers": {
-			"lightness": 0.3,
+			"lightness": 0.4,
 			"color": "#577B6B",
 			"outline-color":"rgba(255,255,255,0)"
     }
@@ -5271,7 +5271,7 @@
 	{
     "featureType": "gas_station",
     "stylers": {
-			"lightness": 0.3,
+			"lightness": 0.4,
 			"color": "#6c5942",
 			"outline-color":"rgba(255,255,255,0)"
     }
