@@ -3,7 +3,7 @@
 		"featureType": "road",
 		"stylers": {
 			"color": "#f6f6f3",
-			"outline-color": "#fff"
+			"outline-color": "#e2e1df"
 		}
 	},
   {
@@ -5339,7 +5339,7 @@
   {
     "featureType": "building",
     "stylers": {
-			"color": "#F0EBE1",
+			"color": "#F0EDE1",
 			"opacity": 0.8
     }
 	},
