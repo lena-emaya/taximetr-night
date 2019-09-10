@@ -5254,14 +5254,14 @@
   {
     "featureType": "building",
     "stylers": {
-			"color": "#F7F7F2",
+			"color": "#FAFAF7",
 			"opacity": 0.8
     }
   },
   {
     "featureType": "fence",
     "stylers": {
-			"color": "#F7F7F2",
+			"color": "#FAFAF7",
 			"opacity": 0.8
     }
 	},
