@@ -5170,8 +5170,7 @@
 		"featureType": "poi",
 		"zooms": "17-30",
     "stylers": {
-      "visibility": "off",
-			"lightness": 0.4,
+			"lightness": 0.2,
 			"color": "#6c5942",
 			"outline-color":"rgba(255,255,255,0)"
     }
@@ -5187,7 +5186,8 @@
 	{
     "featureType": "gas_station",
     "stylers": {
-			"lightness": 0.4,
+			"lightness": 0.2,
+			"saturation": -1,
 			"color": "#6c5942",
 			"outline-color":"rgba(255,255,255,0)"
     }
@@ -5262,14 +5262,14 @@
     "featureType": "building",
     "stylers": {
 			"color": "#FAFAF7",
-			"opacity": 0
+			"opacity": 0.7
     }
   },
   {
     "featureType": "fence",
     "stylers": {
 			"color": "#FAFAF7",
-			"opacity": 0.8
+			"opacity": 0.7
     }
 	},
 	{
