@@ -840,7 +840,7 @@
     }
   },
   {
-		"featureType": "nonauto.road.railway_0",
+		"featureType": "nonauto.road",
 		"zoomSlices": [
 			{
 				"zooms": "0-12",
@@ -853,7 +853,6 @@
 				"stylers": {
 					"scale": 0.8,
 					"lightness": 0.25,
-					"visibility": "on",
 					"outline-color":"rgba(255,255,255,0)"
 				}
 			}
