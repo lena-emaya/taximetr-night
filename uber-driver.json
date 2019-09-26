@@ -3777,7 +3777,21 @@
 	{
 		"featureType": "country_label",
 		"stylers": {
-			"color": "#a4a096",
+			"color": "#000",
+			"outline-color": "rgba(0, 0, 0, 0)"
+		}
+	},
+	{
+		"featureType": "region_label",
+		"stylers": {
+			"color": "#788583",
+			"outline-color": "rgba(255, 255, 255, 0.6)"
+		}
+	},
+	{
+		"featureType": "country_label",
+		"stylers": {
+			"color": "#000",
 			"outline-color": "rgba(0, 0, 0, 0)"
 		}
 	},
@@ -3912,7 +3926,194 @@
 			"visibility":"on",
 			"opacity": 0.75
 		}
-	 }
+	 },
+	 {
+		"featureType": "border.border_0",
+ 	 "stylers": {
+ 		 	"color": "#7C7E80",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)",
+			"dash": {
+				"fill": 2,
+				"gap": 2
+			}
+		}
+	},
+	{
+		"featureType": "border.border_1",
+ 	 "stylers": {
+ 		 	"color": "#7C7E80",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)",
+			"dash": {
+				"fill": 2,
+				"gap": 2
+			}
+		}
+	},
+	{
+		"featureType": "border.border_2",
+ 	 "stylers": {
+ 		 	"color": "#7C7E80",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)",
+			"dash": {
+				"fill": 2,
+				"gap": 2
+			}
+		}
+	},
+	{
+		"featureType": "border.border_3",
+ 	 "stylers": {
+ 		 	"color": "#7C7E80",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)",
+			"dash": {
+				"fill": 2,
+				"gap": 2
+			}
+		}
+	},
+	{
+		"featureType": "border.border_4",
+ 	 "stylers": {
+ 		 	"color": "#7C7E80",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)",
+			"dash": {
+				"fill": 2,
+				"gap": 2
+			}
+		}
+	},
+	{
+		"featureType": "border.border_5",
+ 	 "stylers": {
+ 		 	"color": "#7C7E80",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)",
+			"dash": {
+				"fill": 2,
+				"gap": 2
+			}
+		}
+	},
+	{
+		"featureType": "border.border_6",
+ 	 "stylers": {
+ 		 	"color": "#7C7E80",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)",
+			"dash": {
+				"fill": 2,
+				"gap": 2
+			}
+		}
+	},
+	{
+		"featureType": "border.border_7",
+ 	 "stylers": {
+ 		 	"color": "#7C7E80",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)",
+			"dash": {
+				"fill": 2,
+				"gap": 2
+			}
+		}
+	},
+	{
+		"featureType": "border.border_8",
+ 	 "stylers": {
+ 		 	"color": "#7C7E80",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)",
+			"dash": {
+				"fill": 2,
+				"gap": 2
+			}
+		}
+	},
+	{
+		"featureType": "border.border_9",
+ 	 "stylers": {
+ 		 	"color": "#7C7E80",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)",
+			"dash": {
+				"fill": 2,
+				"gap": 2
+			}
+		}
+	},
+	{
+		"featureType": "border.border_10",
+ 	 "stylers": {
+ 		 	"color": "#7C7E80",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)",
+			"dash": {
+				"fill": 2,
+				"gap": 2
+			}
+		}
+	},
+	{
+		"featureType": "border.border_LK1_0",
+ 	 "stylers": {
+ 		 	"color": "#7C7E80",
+			 "scale": 0.7
+		}
+	},
+	{
+		"featureType": "border.border_inline_0",
+ 	 "stylers": {
+ 		 	"color": "rgba(0, 0, 0, 0)",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)"
+		}
+	},
+	{
+		"featureType": "border.border_inline_1",
+ 	 "stylers": {
+ 		 	"color": "rgba(0, 0, 0, 0)",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)"
+		}
+	},
+	{
+		"featureType": "border.border_inline_2",
+ 	 "stylers": {
+ 		 	"color": "rgba(0, 0, 0, 0)",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)"
+		}
+	},
+	{
+		"featureType": "border.border_inline_3",
+ 	 "stylers": {
+ 		 	"color": "rgba(0, 0, 0, 0)",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)"
+		}
+	},
+	{
+		"featureType": "border.border_inline_4",
+ 	 "stylers": {
+ 		 	"color": "rgba(0, 0, 0, 0)",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)"
+		}
+	},
+	{
+		"featureType": "border.border_inline_5",
+ 	 "stylers": {
+ 		 	"color": "rgba(0, 0, 0, 0)",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)"
+		}
+	}
 ]
 
 
