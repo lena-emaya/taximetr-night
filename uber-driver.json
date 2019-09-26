@@ -3787,13 +3787,6 @@
 		}
 	},
 	{
-		"featureType": "country_label",
-		"stylers": {
-			"color": "#000",
-			"outline-color": "rgba(0, 0, 0, 0)"
-		}
-	},
-	{
 		"featureType": "border",
  	 "stylers": {
  		 	"color":"rgba(0, 0, 0, 0)",
