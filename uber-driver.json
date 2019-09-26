@@ -3646,7 +3646,6 @@
 	},
 	{
 		"featureType": "label.road.trafficlight",
-		"zooms": "0-17",
     "stylers": {
 			"visibility": "off"
     }
@@ -3683,7 +3682,7 @@
 			"saturation": -1,
 			"lightness": 0.5,
 			"hue": 0.8,
-			"color": "#556275",
+			"color": "#000",
 			"outline-color":"rgba(255,255,255,0)"
     }
   },
@@ -3777,8 +3776,8 @@
 	{
 		"featureType": "country_label",
 		"stylers": {
-			"color": "#000",
-			"outline-color": "rgba(0, 0, 0, 0)"
+			"color": "#4D4D4D",
+			"outline-color": "rgba(255, 255, 255, 0.6)"
 		}
 	},
 	{
