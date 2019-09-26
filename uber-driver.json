@@ -1,0 +1,3909 @@
+[ 
+	{
+		"featureType": "road",
+		"stylers": {
+			"color": "#ffffff",
+      "outline-color": "#ffffff",
+      "scale": 0.7
+		}
+	},
+  {
+    "featureType": "road.class1_0",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]			
+	},
+  {
+    "featureType": "road.class1_1",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]			
+	},
+	{
+    "featureType": "road.class1_2",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]			
+	},
+	{
+    "featureType": "road.class1_3",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]	
+	},
+	{
+    "featureType": "road.class1_4",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]				
+	},
+	{
+    "featureType": "road.class1_5",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]			
+	},
+	{
+    "featureType": "road.class1_link_0",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]				
+	},
+	{
+    "featureType": "road.class1_link_1",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]				
+	},
+	{
+    "featureType": "road.class1_link_2",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]		
+	},
+	{
+    "featureType": "road.class1_link_3",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]	
+	},
+  {
+    "featureType": "road.class2_0",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]	
+  },
+  {
+    "featureType": "road.class2_1",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]	
+  },
+  {
+    "featureType": "road.class2_2",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]	
+  },
+  {
+    "featureType": "road.class2_3",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]	
+  },
+  {
+    "featureType": "road.class2_4",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]	
+  },
+  {
+    "featureType": "road.class2_5",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]	
+  },
+  {
+    "featureType": "road.class3_0",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]	
+  },
+  {
+    "featureType": "road.class3_1",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]	
+  },
+  {
+    "featureType": "road.class3_2",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]	
+  },
+  {
+    "featureType": "road.class3_3",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]	
+  },
+  {
+    "featureType": "road.class3_4",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]	
+  },
+  {
+    "featureType": "road.class3_5",
+		"zoomSlices": [
+			{
+				"zooms": "3-4",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 0.1,
+					"outline-width": 0.15
+				}
+			},
+			{
+				"zooms": "4-5",
+				"stylers": {
+					"line-width": 0.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.2
+				}
+			},
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 1.2,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"outline-width": 2.8
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 3.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3.5,
+					"outline-width": 4.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4.5,
+					"outline-width": 5.5,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 6,
+					"outline-width": 7,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 7,
+					"outline-width": 8,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 10,
+					"outline-width":11,
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#A4B4DA",
+      		"outline-color": "#747EA6",
+					"line-width": 12,
+					"outline-width": 13
+				}
+			}
+		]	
+	},
+	{
+    "featureType": "road.class4_1",
+    "zoomSlices": [
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.2,
+					"color": "#FCF7CF",
+      		"outline-color": "#FDD808",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#FCF7CF",
+      		"outline-color": "#FDD808",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 1.1,
+					"color": "#FCF7CF",
+      		"outline-color": "#FDD808",
+					"outline-width": 1.3
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#FCF7CF",
+      		"outline-color": "#FDD808",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 0.8,
+					"color": "#FCF7CF",
+      		"outline-color": "#FDD808",
+					"outline-width": 1.4
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.5,
+					"color": "#FCF7CF",
+      		"outline-color": "#FDD808",
+					"outline-width": 2.4
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 2,
+					"color": "#FCF7CF",
+      		"outline-color": "#FDD808",
+					"outline-width": 2.5
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 2,
+					"outline-width": 2.5,
+					"color": "#FCF7CF",
+      		"outline-color": "#FDD808"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 4,
+					"color": "#FCF7CF",
+      		"outline-color": "#FDD808"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 4,
+					"outline-width": 5,
+					"color": "#FCF7CF",
+      		"outline-color": "#FDD808"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 5,
+					"outline-width": 6,
+					"color": "#FCF7CF",
+      		"outline-color": "#FDD808"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 6.5,
+					"outline-width": 7.5,
+					"color": "#FCF7CF",
+      		"outline-color": "#FDD808"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 8,
+					"outline-width":9,
+					"color": "#FCF7CF",
+      		"outline-color": "#FDD808"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#FCF7CF",
+      		"outline-color": "#FDD808",
+					"line-width": 11,
+					"outline-width": 12
+				}
+			}
+		]
+  },
+ 
+	{
+    "featureType": "road.class4_0",
+		"zoomSlices": [
+			{
+				"zooms": "5-6",
+				"stylers": {
+					"line-width": 0.15,
+					"color": "#FCF7CF",
+      		"outline-color": "#CC223E",
+					"outline-width": 0.3
+				}
+			},
+			{
+				"zooms": "6-7",
+				"stylers": {
+					"line-width": 0.15,
+					"color": "#FCF7CF",
+      		"outline-color": "#CC223E",
+					"outline-width": 0.5
+				}
+			},
+			{
+				"zooms": "7-8",
+				"stylers": {
+					"line-width": 0.15,
+					"color": "#FCF7CF",
+      		"outline-color": "#CC223E",
+					"outline-width": 0.5
+				}
+			},
+			{
+				"zooms": "8-9",
+				"stylers": {
+					"line-width": 0.25,
+					"color": "#FCF7CF",
+      		"outline-color": "#CC223E",
+					"outline-width": 0.75
+				}
+			},
+			{
+				"zooms": "9-10",
+				"stylers": {
+					"line-width": 0.5,
+					"color": "#FCF7CF",
+      		"outline-color": "#CC223E",
+					"outline-width": 1
+				}
+			},
+			{
+				"zooms": "10-11",
+				"stylers": {
+					"line-width": 1.05,
+					"color": "#FCF7CF",
+      		"outline-color": "#CC223E",
+					"outline-width": 1.5
+				}
+			},
+			{
+				"zooms": "11-12",
+				"stylers": {
+					"line-width": 1.5,
+					"color": "#FCF7CF",
+      		"outline-color": "#CC223E",
+					"outline-width": 2
+				}
+			},
+			{
+				"zooms": "12-13",
+				"stylers": {
+					"line-width": 1.75,
+					"outline-width": 2.25,
+					"color": "#FCF7CF",
+      		"outline-color": "#CC223E"
+				
+				}
+			},
+			{
+				"zooms": "13-14",
+				"stylers": {
+					"line-width": 2,
+					"outline-width": 2.5,
+					"color": "#FCF7CF",
+      		"outline-color": "#FDD808"
+				}
+			},
+			{
+				"zooms": "14-15",
+				"stylers": {
+					"line-width": 3,
+					"outline-width": 4,
+					"color": "#FCF7CF",
+      		"outline-color": "#FDD808"
+				}
+			},
+			{
+				"zooms": "15-16",
+				"stylers": {
+					"line-width": 4,
+					"outline-width": 5,
+					"color": "#FCF7CF",
+      		"outline-color": "#FDD808"
+				}
+			},
+			{
+				"zooms": "16-17",
+				"stylers": {
+					"line-width": 5.5,
+					"outline-width": 6.5,
+					"color": "#FCF7CF",
+      		"outline-color": "#FDD808"
+				}
+			},
+			{
+				"zooms": "17-18",
+				"stylers": {
+					"line-width": 7,
+					"outline-width":8,
+					"color": "#FCF7CF",
+      		"outline-color": "#FDD808"
+				}
+			},
+			{
+				"zooms": "18-30",
+				"stylers": {
+					"color": "#FCF7CF",
+      		"outline-color": "#FDD808",
+					"line-width": 10,
+					"outline-width": 11
+				}
+			}
+		]
+  },
+  {
+    "featureType": "label.road",
+    "stylers": {
+      "color": "#6a6553",
+      "outline-color": "rgba(255,255,255,0)"
+    }
+  },
+  {
+		"featureType": "nonauto.road.railway_0",
+		"zoomSlices": [
+			{
+				"zooms": "0-12",
+				"stylers": {
+					"visibility": "off"
+				}
+			},
+			{
+				"zooms": "12-22",
+				"stylers": {
+					"scale": 0.8,
+					"lightness": 0.45,
+					"visibility": "on",
+					"outline-color":"rgba(255,255,255,0)"
+				}
+			}
+		]
+	},
+	{
+		"featureType": "label.transport",
+		"zoomSlices": [
+			{
+				"zooms": "0-12",
+				"stylers": {
+					"visibility": "off"
+				}
+			},
+			{
+				"zooms": "12-22",
+				"stylers": {
+					"lightness": 0.2,
+					"saturation": -0.2,
+					"color": "#6c5942"
+				}
+			}
+		]
+	},
+	{
+		"featureType": "place_label.district_0",
+		"zoomSlices": [
+			{
+				"zooms": "8-14",
+				"stylers": {
+					"color": "#556275",
+					"outline-color":"rgba(0, 0, 0, 0)"
+				}
+			},
+			{
+				"zooms": "14-22",
+				"stylers": {
+					"visibility": "off"
+				}
+			}
+		]
+	},
+	{
+		"featureType": "nonauto.road.tram_0",
+		"stylers": {
+			"lightness": 0.45,
+			"scale": 0.8,
+			"visibility":"on"
+		}
+	},
+	{
+		"featureType": "poi",
+		"zooms": "0-17",
+    "stylers": {
+			"visibility": "off"
+    }
+	},
+	{
+		"featureType": "poi",
+		"zooms": "17-30",
+    "stylers": {
+      "visibility": "off",
+			"lightness": 0.4,
+			"color": "#6c5942",
+			"outline-color":"rgba(255,255,255,0)"
+    }
+	},
+	{
+		"featureType": "poi.veget_label_0",
+		"stylers": {
+			"lightness": 0.4,
+			"color": "#577B6B",
+			"outline-color":"rgba(255,255,255,0)"
+    }
+	},
+	{
+    "featureType": "gas_station",
+    "stylers": {
+			"lightness": 0.4,
+			"color": "#6c5942",
+			"outline-color":"rgba(255,255,255,0)"
+    }
+  },
+  {
+    "featureType": "building_number",
+    "zooms": "0-18",
+		"stylers": {
+		"visibility": "off"
+		}
+	 },
+	{
+    "featureType": "building_number",
+    "zooms": "18-30",
+		"stylers": {
+		"color": "#C2C2C2",
+		"outline-color": "rgba(249, 247, 242, 0)",
+		"outline-width": 0,
+		"scale": 0.9
+		}
+	 },
+	{
+    "featureType": "ferry",
+    "stylers": {
+			"visibility": "off"
+		}
+	},
+	{
+    "featureType": "road.local",
+    "stylers": {
+			"visibility": "off"
+		}
+	},
+	{
+    "featureType": "nonauto.road",
+    "stylers": {
+			"visibility": "off"
+		}
+  },
+  {
+    "featureType": "nonauto.road.crosswalk_0",
+    "stylers": {
+      "visibility": "on",
+      "color": "#fff"
+		}
+  },
+	{
+		"featureType": "hydro",
+		"stylers": {
+			"color": "#ACD5F5"
+		}
+	},
+	{
+    "featureType": "hydro.hydro_l.hydro_l_0",
+    "stylers": {
+        "color": "#ACD5F5"
+    }
+  },
+  {
+    "featureType": "hydro_a_label",
+    "stylers": {
+      "color": "#6998D2"
+    }
+  },
+  {
+    "featureType": "hydro.hydro_l.hydro_l_label_0",
+    "stylers": {
+        "color": "#6998D2"
+    }
+  },
+  {
+    "featureType": "building",
+    "stylers": {
+			"color": "#E6E9EC",
+			"opacity": 1
+    }
+  },
+  {
+    "featureType": "fence",
+    "stylers": {
+			"color": "#E6E9EC",
+			"opacity": 0.8
+    }
+	},
+	{
+    "featureType": "place_label",
+    "stylers": {
+			"color": "#706348",
+			"outline-color": "#faf8f0"
+    }
+	},
+	{
+		"featureType": "country_label",
+		"stylers": {
+			"color": "#a4a096",
+			"outline-color": "rgba(0, 0, 0, 0)"
+		}
+	},
+	{
+		"featureType": "border",
+ 	 "stylers": {
+ 		 	"color":"rgba(0, 0, 0, 0)",
+			"scale": 0.7,
+			"outline-color":"rgba(0, 0, 0, 0)"
+		}
+	},
+
+  {
+		"featureType": "vegetation",
+		"stylers": {
+			"opacity": 1,
+			"color": "#A7DFB6"
+		}
+	},
+  {
+    "featureType": "admin",
+    "stylers": {
+      "color": "#E6E9EC"
+    }
+  },
+  {
+    "featureType": "urban-area",
+    "stylers": {
+      "color": "#E6E9EC"
+    }
+  },
+  {
+    "featureType": "urban-area.industrial",
+    "stylers": {
+      "color": "#E6E9EC"
+    }
+	},
+	 {
+		"featureType": "nonauto.road.arrows_0",
+		"stylers": {
+			"visibility":"on",
+			"opacity": 0.75
+		}
+	 },
+	 {
+		"featureType": "nonauto.road.arrows_1",
+		"stylers": {
+			"visibility":"on",
+			"opacity": 0.75
+		}
+	 },
+	 {
+		"featureType": "nonauto.road.arrows_2",
+		"stylers": {
+			"visibility":"on",
+			"opacity": 0.75
+		}
+	 },
+	 {
+		"featureType": "nonauto.road.arrows_3",
+		"stylers": {
+			"visibility":"on",
+			"opacity": 0.75
+		}
+	 },
+	 {
+		"featureType": "nonauto.road.arrows_4",
+		"stylers": {
+			"visibility":"on",
+			"opacity": 0.75
+		}
+	 },
+	 {
+		"featureType": "nonauto.road.arrows_5",
+		"stylers": {
+			"visibility":"on",
+			"opacity": 0.75
+		}
+	 },
+	 {
+		"featureType": "nonauto.road.arrows_6",
+		"stylers": {
+			"visibility":"on",
+			"opacity": 0.75
+		}
+	 },
+	 {
+		"featureType": "nonauto.road.arrows_7",
+		"stylers": {
+			"visibility":"on",
+			"opacity": 0.75
+		}
+	 },
+	 {
+		"featureType": "nonauto.road.arrows_8",
+		"stylers": {
+			"visibility":"on",
+			"opacity": 0.75
+		}
+	 },
+	 {
+		"featureType": "nonauto.road.arrows_9",
+		"stylers": {
+			"visibility":"on",
+			"opacity": 0.75
+		}
+	 },
+	 {
+		"featureType": "nonauto.road.arrows_10",
+		"stylers": {
+			"visibility":"on",
+			"opacity": 0.75
+		}
+	 },
+	 {
+		"featureType": "nonauto.road.arrows_11",
+		"stylers": {
+			"visibility":"on",
+			"opacity": 0.75
+		}
+	 },
+	 {
+		"featureType": "nonauto.road.arrows_12",
+		"stylers": {
+			"visibility":"on",
+			"opacity": 0.75
+		}
+	 },
+	 {
+		"featureType": "nonauto.road.arrows_13",
+		"stylers": {
+			"visibility":"on",
+			"opacity": 0.75
+		}
+	 }
+]
+
+
+
