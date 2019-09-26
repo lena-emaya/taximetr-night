@@ -1012,40 +1012,16 @@
   },
   {
     "featureType": "building",
-    "zooms": "10-15",
-    "stylers": {
-			"color": "#E6E9EC",
-			"opacity": 0.2
-    }
-  },
-  {
-    "featureType": "building",
-    "zooms": "15-16",
-    "stylers": {
-			"color": "#E6E9EC",
-			"opacity": 0.5
-    }
-  },
-  {
-    "featureType": "building",
-    "zooms": "16-17",
-    "stylers": {
-			"color": "#E6E9EC",
-			"opacity": 0.8
-    }
-  },
-  {
-    "featureType": "building",
     "zooms": "17-30",
     "stylers": {
-			"color": "#E6E9EC",
+			"color": "#DCE1E6",
 			"opacity": 1
     }
   },
   {
     "featureType": "fence",
     "stylers": {
-			"color": "#E6E9EC"
+			"color": "#DCE1E6"
     }
 	},
 	{
