@@ -3655,9 +3655,10 @@
 		"featureType": "poi",
 		"zooms": "17-30",
     "stylers": {
-      "visibility": "off",
+			"saturation": -0.8,
 			"lightness": 0.4,
-			"color": "#6c5942",
+			"hue": 0.8,
+			"color": "#556275",
 			"outline-color":"rgba(255,255,255,0)"
     }
 	},
@@ -3672,8 +3673,10 @@
 	{
     "featureType": "gas_station",
     "stylers": {
+			"saturation": -0.8,
 			"lightness": 0.4,
-			"color": "#6c5942",
+			"hue": 0.8,
+			"color": "#556275",
 			"outline-color":"rgba(255,255,255,0)"
     }
   },
@@ -3760,8 +3763,8 @@
 	{
     "featureType": "place_label",
     "stylers": {
-			"color": "#706348",
-			"outline-color": "#faf8f0"
+			"color": "#556275",
+			"outline-color": "#E6E9EC"
     }
 	},
 	{
