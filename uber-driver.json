@@ -3,7 +3,7 @@
 		"featureType": "road",
 		"stylers": {
 			"color": "#ffffff",
-      "outline-color": "#ffffff",
+      "outline-color": "rgba(0,0,0,0)",
       "scale": 0.7
 		}
 	},
@@ -3724,8 +3724,7 @@
   {
     "featureType": "nonauto.road.crosswalk_0",
     "stylers": {
-      "visibility": "on",
-      "color": "#fff"
+			"visibility": "off"
 		}
   },
 	{
