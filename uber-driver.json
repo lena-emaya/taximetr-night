@@ -3742,13 +3742,15 @@
   {
     "featureType": "hydro_a_label",
     "stylers": {
-      "color": "#6998D2"
+			"color": "#6998D2",
+			"scale": 0.9
     }
   },
   {
     "featureType": "hydro.hydro_l.hydro_l_label_0",
     "stylers": {
-        "color": "#6998D2"
+				"color": "#6998D2",
+				"scale": 0.9
     }
   },
   {
@@ -3776,7 +3778,8 @@
 		"featureType": "country_label",
 		"stylers": {
 			"color": "#4D4D4D",
-			"outline-color": "rgba(255, 255, 255, 0.6)"
+			"outline-color": "rgba(255, 255, 255, 0.6)",
+			"scale": 0.95
 		}
 	},
 	{
