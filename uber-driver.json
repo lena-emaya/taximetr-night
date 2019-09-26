@@ -3612,8 +3612,9 @@
 				"zooms": "12-22",
 				"stylers": {
 					"lightness": 0.2,
-					"saturation": -0.2,
-					"color": "#6c5942"
+					"saturation": -1,
+					"color": "#6c5942",
+					"scale": 0.9
 				}
 			}
 		]
@@ -3639,10 +3640,18 @@
 	{
 		"featureType": "nonauto.road.tram_0",
 		"stylers": {
+			"hue": 0.8,
 			"lightness": 0.45,
 			"scale": 0.8,
 			"visibility":"on"
 		}
+	},
+	{
+		"featureType": "label.road.trafficlight",
+		"zooms": "0-17",
+    "stylers": {
+			"visibility": "off"
+    }
 	},
 	{
 		"featureType": "poi",
@@ -3673,8 +3682,8 @@
 	{
     "featureType": "gas_station",
     "stylers": {
-			"saturation": -0.8,
-			"lightness": 0.4,
+			"saturation": -1,
+			"lightness": 0.5,
 			"hue": 0.8,
 			"color": "#556275",
 			"outline-color":"rgba(255,255,255,0)"
