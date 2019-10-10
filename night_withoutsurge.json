@@ -86,47 +86,15 @@
       "featureType": "road",
       "stylers": {
         "color": "#5c5849",
-        "outline-color": "rgba(255,255,255,0)"
-      }
-    },
-    {
-      "featureType": "road.highway",
-      "stylers": {
-        "color": "#75705e",
-        "outline-color": "rgba(255,255,255,0)"
-      }
-    },
-    {
-      "featureType": "road.local.pedestrian",
-      "stylers": {
-        "visibility": "off"
+        "outline-color": "rgba(255,255,255,0)",
+        "scale": 0.75
       }
     },
     {
       "featureType": "label.road",
       "stylers": {
-        "color": "#E0DEDA",
-        "outline-color": "rgba(0,0,0,0.4)"
-      }
-    },
-    {
-      "featureType": "road.local.direction",
-      "stylers": {
-        "visibility": "off"
-      },
-      "zooms": "1-18"
-    },
-    {
-      "featureType": "road.highway.direction",
-      "stylers": {
-        "visibility": "off"
-      },
-      "zooms": "1-18"
-    },
-    {
-      "featureType": "label.station",
-      "stylers": {
-        "visibility": "off"
+        "color": "#878373",
+        "outline-color": "rgba(0,0,0,0.2)"
       }
     },
     {
@@ -327,6 +295,13 @@
      },
      {
       "featureType": "country_label",
+      "stylers": {
+        "color": "#75705E",
+        "outline-color": "rgba(0, 0, 0, 0)"
+      }
+    },
+    {
+      "featureType": "region_label",
       "stylers": {
         "color": "#75705E",
         "outline-color": "rgba(0, 0, 0, 0)"
