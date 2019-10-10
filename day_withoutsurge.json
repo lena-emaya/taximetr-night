@@ -3746,8 +3746,7 @@
   {
     "featureType": "building",
     "stylers": {
-			"color": "#FAFAF7",
-			"opacity": 0
+			"color": "#ebe9e0"
     }
   },
   {
@@ -3790,21 +3789,15 @@
   {
     "featureType": "admin",
     "stylers": {
-      "color": "#ffffff"
+      "color": "#faf8f0"
     }
   },
   {
     "featureType": "urban-area",
     "stylers": {
-      "color": "#ffffff"
+      "color": "#faf8f0"
     }
   },
-  {
-    "featureType": "urban-area.industrial",
-    "stylers": {
-      "color": "#ffffff"
-    }
-	},
 	 {
 		"featureType": "nonauto.road.arrows_0",
 		"stylers": {
