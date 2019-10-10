@@ -177,6 +177,21 @@
       }
     },
     {
+      "featureType": "nonauto.road",
+      "zooms":"0-14",
+      "stylers": {
+        "visibility": "off"
+      }
+    },
+    {
+      "featureType": "nonauto.road",
+      "zooms":"14-22",
+      "stylers": {
+        "lightness": -0.15,
+        "scale": 0.8
+      }
+    },
+    {
       "featureType": "nonauto.road.arrows_0",
       "stylers": {
         "visibility":"on",
