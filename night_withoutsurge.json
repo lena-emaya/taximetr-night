@@ -98,6 +98,14 @@
       }
     },
     {
+      "featureType": "label.road.road_label",
+      "stylers": {
+        "color": "#fff",
+        "outline-color": "rgba(0,0,0,0.2)"
+      }
+    },
+    
+    {
       "featureType": "label.urban-area",
       "stylers": {
         "visibility": "off"
