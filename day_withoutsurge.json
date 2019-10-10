@@ -907,15 +907,14 @@
 		"featureType": "poi",
 		"zooms": "0-17",
     "stylers": {
-			"visibility": "off"
+			"opacity": 0
     }
 	},
 	{
 		"featureType": "poi",
 		"zooms": "17-30",
     "stylers": {
-      "visibility": "off",
-			"lightness": 0.4,
+			"saturation": -0.8,
 			"color": "#6c5942",
 			"outline-color":"rgba(255,255,255,0)"
     }
