@@ -3722,7 +3722,7 @@
 	{
 		"featureType": "hydro",
 		"stylers": {
-			"color": "#dcedff"
+			"color": "#d2deea"
 		}
 	},
 	{
@@ -3734,7 +3734,7 @@
   {
     "featureType": "hydro_a_label",
     "stylers": {
-      "color": "#A9BFD9"
+      "color": "#d2deea"
     }
   },
   {
@@ -3783,7 +3783,7 @@
 		"featureType": "vegetation",
 		"stylers": {
 			"opacity": 1,
-			"color": "#eafbec"
+			"color": "#c7e7cb"
 		}
 	},
   {
