@@ -194,6 +194,12 @@
       }
     },
     {
+      "featureType": "nonauto.road.construction_0",
+      "stylers": {
+        "color": "#f00"
+      }
+     },
+    {
       "featureType": "nonauto.road.arrows_0",
       "stylers": {
         "visibility":"on",
