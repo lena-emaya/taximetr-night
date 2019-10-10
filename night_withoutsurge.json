@@ -125,10 +125,18 @@
       "zooms": "1-16"
     },
     {
+      "featureType": "label.transport",
+      "stylers": {
+        "saturation": -0.2,
+        "lightness": -0.1
+      },
+      "zooms": "16-22"
+    },
+    {
       "featureType": "label.road.trafficlight",
       "stylers": {
         "ligthness": -0.1,
-        "saturation": -0.2
+        "saturation": -0.4
       }
     },
     {
@@ -196,7 +204,8 @@
     {
       "featureType": "nonauto.road.construction_0",
       "stylers": {
-        "color": "#f00"
+        "color": "#5c5849",
+        "scale": 0.8
       }
      },
     {
