@@ -13,6 +13,13 @@
       }
     },
     {
+      "featureType": "fence",
+      "stylers": {
+        "color": "#22201c",
+        "opacity": 0.8
+      }
+    },
+    {
       "featureType": "vegetation",
       "stylers": {
         "color": "#282a29"
@@ -36,6 +43,14 @@
     },
     {
       "featureType": "gas_station",
+      "stylers": {
+        "hue": -0.85,
+        "saturation": -0.75,
+        "lightness": -0.1
+      }
+    },
+    {
+      "featureType": "roadnet_p",
       "stylers": {
         "hue": -0.85,
         "saturation": -0.75,
