@@ -117,9 +117,10 @@
       "zooms": "1-16"
     },
     {
-      "featureType": "road.trafficlight",
+      "featureType": "label.road.trafficlight",
       "stylers": {
-        "visibility": "off"
+        "ligthness": -0.1,
+        "saturation": -0.2
       }
     },
     {
