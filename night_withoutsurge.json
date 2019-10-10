@@ -86,8 +86,8 @@
       "featureType": "road",
       "stylers": {
         "color": "#5c5849",
-        "outline-color": "rgba(255,255,255,0)",
-        "scale": 0.75
+        "outline-color": "#2f302c",
+        "scale": 0.8
       }
     },
     {
@@ -98,9 +98,9 @@
       }
     },
     {
-      "featureType": "label.road.road_label",
+      "featureType": "label.road.road_label.",
       "stylers": {
-        "color": "#fff",
+        "color": "#C4BFA7",
         "outline-color": "rgba(0,0,0,0.2)"
       }
     },
