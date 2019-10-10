@@ -320,6 +320,13 @@
       }
      },
      {
+      "featureType": "country_label",
+      "stylers": {
+        "color": "#75705E",
+        "outline-color": "rgba(0, 0, 0, 0)"
+      }
+    },
+     {
       "featureType": "place_label",
       "stylers": {
         "color": "#c4bfa7",
