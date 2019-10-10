@@ -161,9 +161,15 @@
       }
     },
     {
-      "featureType": "label.hydro",
+      "featureType": "hydro_a_label",
       "stylers": {
-        "visibility": "off"
+        "color": "#2d3939"
+      }
+    },
+    {
+      "featureType": "hydro.hydro_l.hydro_l_label_0",
+      "stylers": {
+          "color": "#2d3939"
       }
     },
     {
