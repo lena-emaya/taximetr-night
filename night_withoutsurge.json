@@ -297,5 +297,11 @@
         "opacity": 0.75,
         "hue": -0.4
       }
+     },
+     {
+      "featureType": "roadnet_a",
+      "stylers": {
+        "visibility":"off"
+      }
      }
   ]
