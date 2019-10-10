@@ -162,12 +162,6 @@
       }
     },
     {
-      "featureType": "nonauto.road.railway_0",
-      "stylers": {
-        "opacity": "0.1"
-      }
-    },
-    {
       "featureType": "building_number",
       "stylers": {
       "color": "#595747",
