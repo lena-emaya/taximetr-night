@@ -2,8 +2,8 @@
 	{
 		"featureType": "road",
 		"stylers": {
-			"color": "#f1f0ed",
-      "outline-color": "#c4c2be",
+			"color": "#fff",
+      "outline-color": "#9E9983",
       "scale": 0.7
 		}
 	},
