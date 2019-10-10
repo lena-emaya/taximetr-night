@@ -859,16 +859,31 @@
 		]
 	},
 	{
+		"featureType": "nonauto.road",
+		"zooms":"0-14",
+		"stylers": {
+			"visibility": "off"
+		}
+	},
+	{
+		"featureType": "nonauto.road",
+		"zooms":"14-22",
+		"stylers": {
+			"lightness": 0.15,
+			"scale": 0.8
+		}
+	},
+	{
 		"featureType": "label.transport",
 		"zoomSlices": [
 			{
-				"zooms": "0-12",
+				"zooms": "0-14",
 				"stylers": {
 					"visibility": "off"
 				}
 			},
 			{
-				"zooms": "12-22",
+				"zooms": "14-22",
 				"stylers": {
 					"lightness": 0.2,
 					"saturation": -0.2,
@@ -914,7 +929,7 @@
 		"featureType": "poi",
 		"zooms": "17-30",
     "stylers": {
-			"saturation": 0.2,
+			"lightness": 0.2,
 			"color": "#6c5942",
 			"outline-color":"rgba(255,255,255,0)"
     }
