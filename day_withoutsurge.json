@@ -966,18 +966,6 @@
 			"visibility": "off"
 		}
 	},
-	{
-    "featureType": "road.local",
-    "stylers": {
-			"visibility": "off"
-		}
-	},
-	{
-    "featureType": "nonauto.road",
-    "stylers": {
-			"visibility": "off"
-		}
-  },
   {
     "featureType": "nonauto.road.crosswalk_0",
     "stylers": {
