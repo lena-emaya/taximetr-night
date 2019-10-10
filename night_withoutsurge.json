@@ -28,11 +28,19 @@
     {
       "featureType": "poi",
       "stylers": {
-        "hue": -0.4,
-        "saturation": -0.5
+        "hue": -0.85,
+        "saturation": -0.75,
+        "lightness": -0.1
       },
       "zooms": "18-20"
-      
+    },
+    {
+      "featureType": "gas_station",
+      "stylers": {
+        "hue": -0.85,
+        "saturation": -0.75,
+        "lightness": -0.1
+      }
     },
     {
       "featureType": "admin",
@@ -169,6 +177,13 @@
       "outline-width": 0,
       "scale": 0.9
       }
-     }
-    
+     },
+     {
+      "featureType": "border",
+      "stylers": {
+        "color":"#5C5849",
+        "scale": 0.7,
+        "outline-color":"rgba(0, 0, 0, 0)"
+      }
+    },
   ]
