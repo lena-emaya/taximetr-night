@@ -3,7 +3,7 @@
 		"featureType": "road",
 		"stylers": {
 			"color": "#ffffff",
-      "outline-color": "#C4BFA7",
+      "outline-color": "#B8B29A",
       "scale": 0.75
 		}
 	},
@@ -976,37 +976,38 @@
 	{
 		"featureType": "hydro",
 		"stylers": {
-			"color": "#d2deea"
+			"color": "#C7D7E7"
 		}
 	},
 	{
     "featureType": "hydro.hydro_l.hydro_l_0",
     "stylers": {
-        "color": "#dcedff"
+        "color": "#C7D7E7"
     }
   },
   {
     "featureType": "hydro_a_label",
     "stylers": {
-      "color": "#d2deea"
+      "color": "#B0C1D2"
     }
   },
   {
     "featureType": "hydro.hydro_l.hydro_l_label_0",
     "stylers": {
-        "color": "#A9BFD9"
+        "color": "#B0C1D2"
     }
   },
   {
     "featureType": "building",
     "stylers": {
-			"color": "#F2EFDE"
+      "color": "#F2EFDE",
+      "opacity": 0.8
     }
   },
   {
     "featureType": "fence",
     "stylers": {
-			"color": "#FAFAF7",
+			"color": "#F1EEDB",
 			"opacity": 0.8
     }
 	},
