@@ -11,7 +11,7 @@
         "color": "#22201c",
         "opacity": 0.8
       }
-    },
+    },ы
     {
       "featureType": "fence",
       "stylers": {
@@ -371,5 +371,10 @@
         "visibility": "on",
         "color": "#2f302c"
       }
-    }
+    },
+    {
+      "featureType": "relief_p",
+      "stylers": {
+        "visibility": "off"}
+     }
   ]
