@@ -474,7 +474,7 @@
       "featureType": "label.road.trafficlight",
       "stylers": {
         "ligthness": -0.1,
-        "saturation": -0.8
+        "saturation": -0.4
       }
     },
     
