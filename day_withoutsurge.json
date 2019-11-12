@@ -6,7 +6,15 @@
       "outline-color": "#B8B29A",
       "scale": 0.75
 		}
-	},
+  },
+  {
+    "featureType": "nonauto.road.construction_0",
+    "stylers": {
+      "color": "#ffffff",
+      "outline-color": "#B8B29A",
+      "scale": 0.75
+    }
+  },
 	{
     "featureType": "road.class1_0",
 		"stylers": {
@@ -1583,6 +1591,12 @@
     }
   },
   {
+    "featureType": "roadnet_a",
+    "stylers": {
+      "visibility": "off"
+    }
+  },
+  {
     "featureType": "roadnet_p",
     "stylers": {
       "lightness": 0.2,
@@ -1656,7 +1670,7 @@
   {
 		"featureType": "hydro",
 		"stylers": {
-			"color": "#C7D7E7"
+      "color": "#C7D7E7"
 		}
 	},
 	{
@@ -1668,13 +1682,15 @@
   {
     "featureType": "hydro_a_label",
     "stylers": {
-      "color": "#A1B2C4"
+      "color": "#A1B2C4",
+      "scale": 0.9
     }
   },
   {
     "featureType": "hydro.hydro_l.hydro_l_label_0",
     "stylers": {
-        "color": "#A1B2C4"
+      "color": "#A1B2C4",
+      "scale": 0.9
     }
   },
   {
