@@ -165,8 +165,7 @@
           "stylers": {
             "scale": 0.8,
             "lightness": -0.1,
-            "saturation": -0.2,
-            "visibility": "on",
+            "saturation": -0.8,
             "outline-color":"rgba(255,255,255,0)"
           }
         }
@@ -176,7 +175,7 @@
       "featureType": "nonauto.road.tram_0",
       "stylers": {
         "lightness": -0.1,
-            "saturation": -0.2,
+        "saturation": -0.8,
         "scale": 0.8,
         "visibility":"on"
       }
@@ -192,7 +191,7 @@
       "featureType": "label.transport",
       "zooms": "14-22",
       "stylers": {
-        "saturation": -0.2,
+        "saturation": -1,
         "lightness": -0.1
       }
     },
