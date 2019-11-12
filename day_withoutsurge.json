@@ -1506,6 +1506,14 @@
 			}
 		]
   },
+  {
+		"featureType": "nonauto.road.tram_0",
+		"stylers": {
+			"lightness": 0.45,
+			"scale": 0.8,
+			"visibility":"on"
+		}
+	},
 	{
 		"featureType": "label.transport",
 		"zoomSlices": [
@@ -1524,6 +1532,20 @@
 				}
 			}
 		]
+  },
+	{
+		"featureType": "country_label",
+		"stylers": {
+			"color": "#a4a096",
+			"outline-color": "rgba(0, 0, 0, 0)"
+		}
+	},
+  {
+    "featureType": "place_label",
+    "stylers": {
+			"color": "#706348",
+			"outline-color": "#faf8f0"
+    }
 	},
 	{
 		"featureType": "place_label.district_0",
@@ -1544,14 +1566,6 @@
 		]
 	},
 	{
-		"featureType": "nonauto.road.tram_0",
-		"stylers": {
-			"lightness": 0.45,
-			"scale": 0.8,
-			"visibility":"on"
-		}
-	},
-	{
 		"featureType": "poi",
 		"zooms": "0-17",
     "stylers": {
@@ -1567,8 +1581,15 @@
 			"color": "#6c5942",
 			"outline-color":"rgba(255,255,255,0)"
     }
-	},
-	{
+  },
+  {
+    "featureType": "roadnet_p",
+    "stylers": {
+      "lightness": 0.2,
+      "scale": 0.9
+    }
+  },
+  {
 		"featureType": "poi.veget_label_0",
 		"stylers": {
 			"lightness": 0.2,
@@ -1576,7 +1597,7 @@
 			"outline-color":"rgba(255,255,255,0)"
     }
 	},
-	{
+  {
     "featureType": "gas_station",
     "stylers": {
 			"lightness": 0.2,
@@ -1607,23 +1628,12 @@
 		"outline-width": 0,
 		"scale": 0.9
 		}
-	 },
-
-	{
-    "featureType": "place_label",
+   },
+   {
+    "featureType": "relief_p",
     "stylers": {
-			"color": "#706348",
-			"outline-color": "#faf8f0"
-    }
-	},
-	{
-		"featureType": "country_label",
-		"stylers": {
-			"color": "#a4a096",
-			"outline-color": "rgba(0, 0, 0, 0)"
-		}
-	},
-  
+      "visibility": "off"}
+   },
   {
     "featureType": "admin",
     "stylers": {
