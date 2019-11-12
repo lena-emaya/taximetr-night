@@ -1590,6 +1590,15 @@
       "featureType": "poi",
       "zooms": "17-30",
       "stylers": {
+        "scale": 0.9,
+        "hue": -0.85,
+        "saturation": -0.75,
+        "lightness": -0.1
+      }
+    },
+    {
+      "featureType":"entrance.entrance_0",
+      "stylers":{
         "hue": -0.85,
         "saturation": -0.75,
         "lightness": -0.1

@@ -1591,6 +1591,12 @@
     }
   },
   {
+    "featureType":"entrance.entrance_0",
+    "stylers":{
+      "lightness": 0.2
+    }
+  },
+  {
     "featureType": "roadnet_a",
     "stylers": {
       "visibility": "off"
