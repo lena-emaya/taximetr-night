@@ -27,7 +27,7 @@
         {
           "zooms": "17-22",
           "stylers": {
-            "color": "#2f302c",
+            "color": "#423F34",
             "visibility": "on",
             "scale": 0.75
             }
@@ -46,7 +46,7 @@
         {
           "zooms": "17-22",
           "stylers": {
-            "color": "#2f302c",
+            "color": "#423F34",
             "visibility": "on",
             "scale": 0.75
             }
@@ -65,7 +65,7 @@
         {
           "zooms": "17-22",
           "stylers": {
-            "color": "#2f302c",
+            "color": "#423F34",
             "visibility": "on",
             "scale": 0.75
             }
@@ -84,7 +84,7 @@
         {
           "zooms": "17-22",
           "stylers": {
-            "color": "#2f302c",
+            "color": "#423F34",
             "visibility": "on",
             "scale": 0.75
             }
@@ -103,7 +103,7 @@
         {
           "zooms": "17-22",
           "stylers": {
-            "color": "#2f302c",
+            "color": "#423F34",
             "visibility": "on",
             "scale": 0.75
             }
@@ -122,7 +122,7 @@
         {
           "zooms": "17-22",
           "stylers": {
-            "color": "#2f302c",
+            "color": "#423F34",
             "visibility": "on",
             "scale": 0.75
             }
@@ -165,7 +165,7 @@
           "stylers": {
             "scale": 0.8,
             "lightness": -0.1,
-            "saturation": -0.8,
+            "saturation": -1,
             "outline-color":"rgba(255,255,255,0)"
           }
         }
@@ -174,8 +174,8 @@
     {
       "featureType": "nonauto.road.tram_0",
       "stylers": {
-        "lightness": -0.1,
-        "saturation": -0.8,
+        "lightness": -0.2,
+        "saturation": -0.1,
         "scale": 0.8,
         "visibility":"on"
       }
@@ -191,7 +191,7 @@
       "featureType": "label.transport",
       "zooms": "14-22",
       "stylers": {
-        "saturation": -1,
+        "saturation": -0.6,
         "lightness": -0.1
       }
     },
@@ -474,7 +474,7 @@
       "featureType": "label.road.trafficlight",
       "stylers": {
         "ligthness": -0.1,
-        "saturation": -0.4
+        "saturation": -0.8
       }
     },
     
