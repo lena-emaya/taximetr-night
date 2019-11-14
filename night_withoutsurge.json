@@ -1423,7 +1423,7 @@
       "zooms": "14-22",
       "stylers": {
         "saturation": -1,
-        "lightness": -0.5,
+        "lightness": -0.15,
         "color": "#cccccc"
       }
     },
@@ -1514,7 +1514,7 @@
     {
       "featureType": "building",
       "stylers": {
-        "color": "#22201c",
+        "color": "#262520",
         "opacity": 0.8
       }
     },
