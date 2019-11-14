@@ -1497,8 +1497,6 @@
       "featureType": "poi.veget_label_0",
       "stylers": {
         "lightness": -0.1,
-        "hue": 0,
-        "saturation": -1,
         "color": "#cccccc",
         "outline-color":"rgba(255,255,255,0)"
       }
