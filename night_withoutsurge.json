@@ -52,6 +52,12 @@
     }
   },
   {
+	  "featureType": "road.local.pedestrian",
+	  "stylers": {
+      "visibility": "off"
+		}
+	 },
+  {
     "featureType": "nonauto.road.construction_0",
     "stylers": {
       "color": "#5c5849",
@@ -1580,7 +1586,7 @@
       "zooms": "14-22",
       "stylers": {
         "saturation": -1,
-        "lightness": 0.1,
+        "lightness": -0.5,
         "color": "#cccccc"
       }
     },
