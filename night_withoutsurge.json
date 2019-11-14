@@ -1579,8 +1579,8 @@
       "featureType": "label.transport",
       "zooms": "14-22",
       "stylers": {
-        "saturation": -0.6,
-        "lightness": -0.1,
+        "saturation": -1,
+        "lightness": 0.1,
         "color": "#cccccc"
       }
     },
