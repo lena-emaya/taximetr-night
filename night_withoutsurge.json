@@ -47,11 +47,11 @@
     "featureType": "road",
     "zoomSlices": [
       {
-        "zooms": "1-15",
+        "zooms": "1-14",
         "stylers": {
-          "color": "#5E6980",
+          "color": "#595443",
           "outline-color": "#423F34",
-          "scale": 0.75 
+          "scale": 0.6
         }
       },
       {
@@ -1526,14 +1526,14 @@
       "featureType": "building",
       "stylers": {
         "color": "#24221E",
-        "opacity": 0.8
+        "opacity": 0.7
       }
     },
     {
       "featureType": "fence",
       "stylers": {
         "color": "#22201c",
-        "opacity": 0.8
+        "opacity": 0.7
       }
     },
     {
