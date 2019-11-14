@@ -45,11 +45,24 @@
   },
   {
     "featureType": "road",
-    "stylers": {
-      "color": "#595443",
-      "outline-color": "#423F34",
-      "scale": 0.75
-    }
+    "zoomSlices": [
+      {
+        "zooms": "1-15",
+        "stylers": {
+          "color": "#5E6980",
+          "outline-color": "#423F34",
+          "scale": 0.75 
+        }
+      },
+      {
+        "zooms": "15-20",
+        "stylers": {
+          "color": "#595443",
+          "outline-color": "#423F34",
+          "scale": 0.75 
+        }
+      }
+    ]
   },
   {
 	  "featureType": "road.local.pedestrian",
