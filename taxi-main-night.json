@@ -1372,7 +1372,133 @@
               }
           }
         ]	
-       },
+			 },
+			 {
+				"featureType": "nonauto.road.stairs_0",
+				"zoomSlices": [
+					{
+						"zooms": "0-16",
+						"stylers": {
+							"color": "#66614F",
+							"visibility": "on",
+							"opacity": 0
+							}
+					},
+					{
+						"zooms": "16-22",
+						"stylers": {
+							"color": "#66614F",
+							"visibility": "on",
+							"scale": 0.75
+							}
+					}
+				]	
+			 },
+			 {
+				"featureType": "nonauto.road.stairs_1",
+				"zoomSlices": [
+					{
+						"zooms": "0-16",
+						"stylers": {
+							"color": "#66614F",
+							"visibility": "on",
+							"opacity": 0
+							}
+					},
+					{
+						"zooms": "16-22",
+						"stylers": {
+							"color": "#66614F",
+							"visibility": "on",
+							"scale": 0.75
+							}
+					}
+				]	
+			 },
+			 {
+				"featureType": "nonauto.road.stairs_2",
+				"zoomSlices": [
+					{
+						"zooms": "0-16",
+						"stylers": {
+							"color": "#66614F",
+							"visibility": "on",
+							"opacity": 0
+							}
+					},
+					{
+						"zooms": "16-22",
+						"stylers": {
+							"color": "#66614F",
+							"visibility": "on",
+							"scale": 0.75
+							}
+					}
+				]	
+			 },
+			 {
+				"featureType": "nonauto.road.stairs_3",
+				"zoomSlices": [
+					{
+						"zooms": "0-16",
+						"stylers": {
+							"color": "#66614F",
+							"visibility": "on",
+							"opacity": 0
+							}
+					},
+					{
+						"zooms": "16-22",
+						"stylers": {
+							"color": "#66614F",
+							"visibility": "on",
+							"scale": 0.75
+							}
+					}
+				]	
+			 },
+			 {
+				"featureType": "nonauto.road.stairs_4",
+				"zoomSlices": [
+					{
+						"zooms": "0-16",
+						"stylers": {
+							"color": "#66614F",
+							"visibility": "on",
+							"opacity": 0
+							}
+					},
+					{
+						"zooms": "16-22",
+						"stylers": {
+							"color": "#66614F",
+							"visibility": "on",
+							"scale": 0.75
+							}
+					}
+				]	
+			 },
+			 {
+				"featureType": "nonauto.road.stairs_5",
+				"zoomSlices": [
+					{
+						"zooms": "0-16",
+						"stylers": {
+							"color": "#66614F",
+							"visibility": "on",
+							"opacity": 0
+							}
+					},
+					{
+						"zooms": "16-22",
+						"stylers": {
+							"color": "#66614F",
+							"visibility": "on",
+							"scale": 0.75
+							}
+					}
+				]	
+			 },
        {
         "featureType": "nonauto.road",
         "zooms":"0-14",
@@ -1455,7 +1581,7 @@
         "zooms": "14-22",
         "stylers": {
 					"lightness": 0.2,
-          "color": "#2C302E"
+          "color": "#000"
         }
 			},
       {
