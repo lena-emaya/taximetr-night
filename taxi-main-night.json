@@ -1450,10 +1450,15 @@
         "zooms": "14-22",
         "stylers": {
           "saturation": -1,
-          "lightness": -0.15,
           "color": "#cccccc"
         }
-      },
+			},
+			{
+				"stylers": {
+					"visibility": "off"
+				},
+				"featureType": "transport.line"
+			},
       {
         "featureType": "country_label",
         "stylers": {
@@ -1492,15 +1497,14 @@
         "featureType": "poi",
         "zooms": "17-30",
         "stylers": {
-          "saturation": -0.1,
+          "saturation": -1,
           "lightness": -0.1
         }
       },
       {
         "featureType":"entrance.entrance_0",
         "stylers":{
-          "hue": -0.85,
-          "saturation": -0.75,
+          "saturation": -1,
           "lightness": -0.1
         }
       },
@@ -1513,14 +1517,14 @@
       {
         "featureType": "roadnet_p",
         "stylers": {
-          "hue": -0.85,
-          "saturation": -0.75,
+          "saturation": -1,
           "lightness": -0.1
         }
       },
       {
         "featureType": "poi.veget_label_0",
         "stylers": {
+          "saturation": -1,
           "lightness": -0.1,
           "color": "#cccccc",
           "outline-color":"rgba(255,255,255,0)"
