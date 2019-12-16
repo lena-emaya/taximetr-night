@@ -20,26 +20,26 @@
     {
       "featureType": "hydro",
       "stylers": {
-        "color": "#475252"
+        "color": "#373b3f"
       }
     },
     {
       "featureType": "hydro.hydro_l.hydro_l_0",
       "stylers": {
-          "color": "#475252"
+          "color": "#373b3f"
       }
     },
     {
       "featureType": "hydro_a_label",
       "stylers": {
-        "color": "#2d3939",
+        "color": "#64696d",
         "scale": 0.9
       }
     },
     {
       "featureType": "hydro.hydro_l.hydro_l_label_0",
       "stylers": {
-        "color": "#2d3939",
+        "color": "#64696d",
         "scale": 0.9
       }
     },
