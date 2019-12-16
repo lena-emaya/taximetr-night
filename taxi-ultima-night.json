@@ -2,13 +2,13 @@
     {
       "featureType": "admin",
       "stylers": {
-        "color": "#282c30"
+        "color": "#2B2F30"
       }
     },
     {
       "featureType": "urban-area",
       "stylers": {
-        "color": "#282c30"
+        "color": "#2B2F30"
       }
     },
     {
@@ -20,13 +20,13 @@
     {
       "featureType": "hydro",
       "stylers": {
-        "color": "#373b3f"
+        "color": "#41484D"
       }
     },
     {
       "featureType": "hydro.hydro_l.hydro_l_0",
       "stylers": {
-          "color": "#373b3f"
+          "color": "#41484D"
       }
     },
     {
