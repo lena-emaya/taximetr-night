@@ -336,7 +336,7 @@
       {
         "featureType": "label.road",
         "stylers": {
-          "color": "#C4BFA7",
+          "color": "#999C9E",
           "outline-color": "rgba(0,0,0,0.2)"
         }
 			},
