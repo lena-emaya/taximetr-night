@@ -1535,15 +1535,13 @@
       {
         "featureType": "building",
         "stylers": {
-          "color": "#292723",
-          "opacity": 0.7
+          "color": "#282723"
         }
       },
       {
         "featureType": "fence",
         "stylers": {
-          "color": "#292723",
-          "opacity": 0.7
+          "color": "#282723"
         }
       },
       {
