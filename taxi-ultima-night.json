@@ -90,7 +90,7 @@
         {
           "zooms": "17-22",
           "stylers": {
-            "color": "#333638",
+            "color": "#404447",
             "visibility": "on",
             "scale": 0.75
             }
@@ -109,7 +109,7 @@
           {
             "zooms": "17-22",
             "stylers": {
-              "color": "#333638",
+              "color": "#404447",
               "visibility": "on",
               "scale": 0.75
               }
@@ -128,7 +128,7 @@
           {
             "zooms": "17-22",
             "stylers": {
-              "color": "#333638",
+              "color": "#404447",
               "visibility": "on",
               "scale": 0.75
               }
@@ -147,7 +147,7 @@
           {
             "zooms": "17-22",
             "stylers": {
-              "color": "#333638",
+              "color": "#404447",
               "visibility": "on",
               "scale": 0.75
               }
@@ -166,7 +166,7 @@
           {
             "zooms": "17-22",
             "stylers": {
-              "color": "#333638",
+              "color": "#404447",
               "visibility": "on",
               "scale": 0.75
               }
@@ -185,7 +185,7 @@
           {
             "zooms": "17-22",
             "stylers": {
-              "color": "#333638",
+              "color": "#404447",
               "visibility": "on",
               "scale": 0.75
               }
@@ -198,7 +198,7 @@
 					{
 						"zooms": "0-16",
 						"stylers": {
-							"color": "#333638",
+							"color": "#404447",
 							"visibility": "on",
 							"opacity": 0
 							}
@@ -219,7 +219,7 @@
 					{
 						"zooms": "0-16",
 						"stylers": {
-							"color": "#333638",
+							"color": "#404447",
 							"visibility": "on",
 							"opacity": 0
 							}
@@ -227,7 +227,7 @@
 					{
 						"zooms": "16-22",
 						"stylers": {
-							"color": "#333638",
+							"color": "#404447",
 							"visibility": "on",
 							"scale": 0.75
 							}
@@ -240,7 +240,7 @@
 					{
 						"zooms": "0-16",
 						"stylers": {
-							"color": "#333638",
+							"color": "#404447",
 							"visibility": "on",
 							"opacity": 0
 							}
@@ -248,7 +248,7 @@
 					{
 						"zooms": "16-22",
 						"stylers": {
-							"color": "#333638",
+							"color": "#404447",
 							"visibility": "on",
 							"scale": 0.75
 							}
@@ -261,7 +261,7 @@
 					{
 						"zooms": "0-16",
 						"stylers": {
-							"color": "#333638",
+							"color": "#404447",
 							"visibility": "on",
 							"opacity": 0
 							}
@@ -269,7 +269,7 @@
 					{
 						"zooms": "16-22",
 						"stylers": {
-							"color": "#333638",
+							"color": "#404447",
 							"visibility": "on",
 							"scale": 0.75
 							}
@@ -282,7 +282,7 @@
 					{
 						"zooms": "0-16",
 						"stylers": {
-							"color": "#333638",
+							"color": "#404447",
 							"visibility": "on",
 							"opacity": 0
 							}
@@ -290,7 +290,7 @@
 					{
 						"zooms": "16-22",
 						"stylers": {
-							"color": "#333638",
+							"color": "#404447",
 							"visibility": "on",
 							"scale": 0.75
 							}
@@ -311,7 +311,7 @@
 					{
 						"zooms": "16-22",
 						"stylers": {
-							"color": "#333638",
+							"color": "#404447",
 							"visibility": "on",
 							"scale": 0.75
 							}
@@ -617,7 +617,7 @@
 			 {
         "featureType": "border",
         "stylers": {
-          "color":"#212426",
+          "color":"#272B2E",
           "scale": 0.7,
           "outline-color":"rgba(0, 0, 0, 0)"
         }
