@@ -1394,7 +1394,12 @@
           "color": "#C4BFA7",
           "outline-color": "rgba(0,0,0,0.2)"
         }
-      },
+			},
+			{
+				"featureType": "label.road.trafficlight",
+				"stylers": {
+					"visibility": "off"}
+			 },
       {
         "featureType": "label.road.marker.road_symbol",
         "stylers": {
@@ -1449,7 +1454,7 @@
         "featureType": "label.transport",
         "zooms": "14-22",
         "stylers": {
-					"lightness": -0.2,
+					"lightness": 0.2,
           "color": "#2C302E"
         }
 			},
