@@ -1580,8 +1580,7 @@
         "featureType": "label.transport",
         "zooms": "14-22",
         "stylers": {
-					"lightness": 0.1,
-          "color": "#000"
+					"lightness": 0.1
         }
 			},
       {
