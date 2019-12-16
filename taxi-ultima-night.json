@@ -1,4 +1,10 @@
 [
+	{
+		"featureType": "ice_sheet",
+		"stylers": {
+			"color": "#282c30"
+		  }
+	   },
     {
       "featureType": "admin",
       "stylers": {
