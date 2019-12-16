@@ -14,7 +14,7 @@
     {
       "featureType": "vegetation",
       "stylers": {
-        "color": "#2D373B"
+        "color": "#282D30"
       }
     },
     {
@@ -383,7 +383,7 @@
         "featureType": "nonauto.road.tram_0",
         "stylers": {
           "lightness": -0.2,
-          "saturation": -0.1,
+          "saturation": -1,
           "scale": 0.8,
           "visibility":"on"
         }
@@ -399,6 +399,7 @@
         "featureType": "label.transport",
         "zooms": "14-22",
         "stylers": {
+					"saturation": -1,
 					"lightness": 0.1
         }
 			},
