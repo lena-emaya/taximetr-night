@@ -49,7 +49,7 @@
         {
           "zooms": "1-14",
           "stylers": {
-            "color": "#333638",
+            "color": "#404447",
             "outline-color": "rgba(0,0,0,0)",
             "scale": 0.75
           }
@@ -57,7 +57,7 @@
         {
           "zooms": "14-20",
           "stylers": {
-            "color": "#333638",
+            "color": "#404447",
             "outline-color": "rgba(0,0,0,0)",
             "scale": 0.75 
           }
